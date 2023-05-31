@@ -1,0 +1,347 @@
+"UID","age","sex","education","Completion.code","Total.approvals","Highest.education.level.completed","Ethnicity.simplified","Country.of.birth","Country.of.residence","Nationality","Language","Student.status","Employment.status","time"
+30,25,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",89,"Undergraduate degree (BA/BSc/other)","Asian","Nepal","Belgium","Belgium","Nepali","No","Unemployed (and job seeking)",1594
+231,24,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",73,"Undergraduate degree (BA/BSc/other)","Mixed","Chile","Chile","Chile","Spanish","Yes","Part-Time",1344
+301,22,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",110,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","Yes","Part-Time",2081
+296,19,"Male","High school diploma/A-levels","454DE7DA",91,"High school diploma/A-levels","White","Hungary","Hungary","Hungary","Hungarian","Yes","Other",872
+241,24,"Male","High school diploma/A-levels","454DE7DA",369,"High school diploma/A-levels","Mixed","Mexico","Mexico","Mexico","Spanish","Yes","Unemployed (and job seeking)",962
+7,22,"Female","High school diploma/A-levels","454DE7DA",128,"High school diploma/A-levels","White","South Africa","South Africa","South Africa","English","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",1223
+327,23,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",505,"Undergraduate degree (BA/BSc/other)","White","United States","Greece","United States","Greek","Yes","Other",1117
+234,19,"Female","High school diploma/A-levels","Manual Completion",39,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","Yes","Unemployed (and job seeking)",7232
+238,20,"Female","High school diploma/A-levels","454DE7DA",54,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","Yes","Part-Time",1794
+251,25,"Female","Technical/community college","454DE7DA",106,"Technical/community college","Mixed","South Africa","South Africa","South Africa","English","No","Full-Time",1824
+313,25,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",720,"Graduate degree (MA/MSc/MPhil/other)","White","Greece","Greece","Greece","Greek","Yes","Full-Time",1078
+191,22,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",173,"Undergraduate degree (BA/BSc/other)","White","Poland","Poland","Poland","Polish","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",634
+97,21,"Male","High school diploma/A-levels","454DE7DA",61,"High school diploma/A-levels","Mixed","South Africa","South Africa","South Africa","English","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",1089
+253,26,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",152,"Graduate degree (MA/MSc/MPhil/other)","White","Italy","Italy","Italy","Italian","Yes","Unemployed (and job seeking)",1094
+342,19,"Male","High school diploma/A-levels","454DE7DA",50,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","Yes","Other",1883
+269,24,"Male","Technical/community college","454DE7DA",70,"Technical/community college","Mixed","South Africa","South Africa","South Africa","English","Yes","Other",1345
+190,20,"Male","High school diploma/A-levels","454DE7DA",56,"High school diploma/A-levels","White","Poland","Poland","Poland","Polish","No","Unemployed (and job seeking)",1427
+232,23,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",115,"Undergraduate degree (BA/BSc/other)","White","Poland","Poland","Poland","Polish","Yes","Other",720
+157,26,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",21,"Undergraduate degree (BA/BSc/other)","Black","Congo the Democratic Republic of the","South Africa","South Africa","English","Yes","Due to start a new job within the next month",1307
+199,24,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",221,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1424
+170,24,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",84,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","Yes","Unemployed (and job seeking)",1148
+49,23,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",83,"Secondary education (e.g. GED/GCSE)","White","Poland","Poland","Poland","Polish","Yes","Unemployed (and job seeking)",930
+283,23,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",191,"Undergraduate degree (BA/BSc/other)","White","Greece","Greece","Greece","Greek","No","Full-Time",765
+334,21,"Male","Doctorate degree (PhD/other)","454DE7DA",137,"Doctorate degree (PhD/other)","White","Poland","Poland","Poland","Polish","Yes","Part-Time",537
+274,20,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",183,"Undergraduate degree (BA/BSc/other)","White","Greece","Greece","Greece","Greek","Yes","Full-Time",784
+110,22,"Male","High school diploma/A-levels","454DE7DA",108,"High school diploma/A-levels","White","Portugal","Portugal","Portugal","Portuguese","DATA_EXPIRED","Due to start a new job within the next month",924
+137,26,"Female","High school diploma/A-levels","454DE7DA",190,"High school diploma/A-levels","White","Israel","Israel","Israel","Hebrew","Yes","Unemployed (and job seeking)",1002
+41,22,"Female","High school diploma/A-levels","454DE7DA",150,"High school diploma/A-levels","White","Slovenia","Slovenia","Slovenia","Slovenian","Yes","Other",724
+53,26,"Female","High school diploma/A-levels","454DE7DA",107,"High school diploma/A-levels","White","Belgium","Belgium","Belgium","Dutch","No","Full-Time",660
+307,27,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",97,"Graduate degree (MA/MSc/MPhil/other)","White","Serbia","Hungary","Hungary","Hungarian","No","Full-Time",1152
+86,22,"Male","High school diploma/A-levels","454DE7DA",118,"High school diploma/A-levels","White","Latvia","Latvia","Latvia","Latvian","Yes","Full-Time",703
+28,25,"Male","Technical/community college","454DE7DA",243,"Technical/community college","White","Poland","Poland","Poland","Polish","No","Full-Time",906
+289,19,"Male","High school diploma/A-levels","454DE7DA",26,"High school diploma/A-levels","White","Brazil","Portugal","Brazil","Portuguese","No","Unemployed (and job seeking)",3062
+339,27,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",265,"Graduate degree (MA/MSc/MPhil/other)","White","Italy","Italy","Italy","Italian","No","Full-Time",1797
+134,25,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",60,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",1812
+230,24,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",69,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","Yes","DATA_EXPIRED",1174
+90,23,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",160,"Undergraduate degree (BA/BSc/other)","White","Poland","Poland","Poland","Polish","Yes","Other",785
+292,24,"Female","Technical/community college","454DE7DA",70,"Technical/community college","Mixed","Greece","Greece","Greece","Greek","Yes","Unemployed (and job seeking)",1617
+174,21,"Male","High school diploma/A-levels","454DE7DA",189,"High school diploma/A-levels","White","Poland","Poland","Poland","Polish","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",1156
+350,27,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",53,"Graduate degree (MA/MSc/MPhil/other)","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time",3029
+151,20,"Male","High school diploma/A-levels","454DE7DA",104,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","Yes","Unemployed (and job seeking)",3192
+270,22,"Prefer not to say","Undergraduate degree (BA/BSc/other)","454DE7DA",147,"Undergraduate degree (BA/BSc/other)","Mixed","France","France","France","French","DATA_EXPIRED","Unemployed (and job seeking)",823
+348,20,"Male","High school diploma/A-levels","454DE7DA",53,"High school diploma/A-levels","White","Poland","Poland","Poland","Polish","Yes","Part-Time",1206
+336,22,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",117,"Undergraduate degree (BA/BSc/other)","White","Spain","Spain","Spain","English","Yes","Part-Time",1014
+124,21,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",318,"Secondary education (e.g. GED/GCSE)","White","Poland","Poland","Poland","Polish","DATA_EXPIRED","DATA_EXPIRED",1397
+273,24,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",100,"Undergraduate degree (BA/BSc/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",790
+29,24,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",53,"Undergraduate degree (BA/BSc/other)","White","Czech Republic","Czech Republic","Czech Republic","Czech","Yes","Part-Time",1032
+62,21,"Female","High school diploma/A-levels","454DE7DA",243,"High school diploma/A-levels","White","Portugal","Portugal","Portugal","Portuguese","Yes","Unemployed (and job seeking)",1458
+148,21,"Female","High school diploma/A-levels","454DE7DA",110,"High school diploma/A-levels","White","Portugal","Portugal","Portugal","Portuguese","Yes","Unemployed (and job seeking)",1173
+75,22,"Female","High school diploma/A-levels","454DE7DA",186,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","No","Other",1654
+107,25,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",155,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","Czech Republic","United Kingdom","English","No","Part-Time",853
+305,24,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",86,"Graduate degree (MA/MSc/MPhil/other)","White","Ukraine","Poland","Ukraine","Ukrainian","No","Unemployed (and job seeking)",682
+136,20,"Female","High school diploma/A-levels","454DE7DA",229,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","Yes","Other",2758
+332,19,"Female","High school diploma/A-levels","454DE7DA",145,"High school diploma/A-levels","White","Portugal","Portugal","Portugal","Portuguese","Yes","Other",790
+309,19,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",331,"Secondary education (e.g. GED/GCSE)","Mixed","United Kingdom","United Kingdom","United Kingdom","Korean","Yes","Other",908
+184,26,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",208,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time",1385
+440,21,"Male","High school diploma/A-levels","454DE7DA",331,"High school diploma/A-levels","White","Greece","Greece","Greece","Greek","Yes","Part-Time",760
+429,25,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",528,"Undergraduate degree (BA/BSc/other)","White","Greece","Greece","Greece","Greek","Yes","Full-Time",1021
+169,31,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",394,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1105
+333,33,"Female","Doctorate degree (PhD/other)","454DE7DA",146,"Doctorate degree (PhD/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",848
+250,36,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",330,"Graduate degree (MA/MSc/MPhil/other)","White","Greece","Greece","Greece","Greek","Yes","Part-Time",848
+10,30,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",177,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",513
+165,35,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",19,"Graduate degree (MA/MSc/MPhil/other)","White","Slovenia","Slovenia","Slovenia","Japanese","Yes","Other",999
+166,36,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",117,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1249
+65,28,"Male","Technical/community college","454DE7DA",133,"Technical/community college","White","Spain","Spain","Spain","Spanish","Yes","Unemployed (and job seeking)",557
+14,29,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",164,"Undergraduate degree (BA/BSc/other)","White","Poland","Poland","Poland","Polish","Yes","Part-Time",1573
+245,32,"Male","Doctorate degree (PhD/other)","454DE7DA",153,"Doctorate degree (PhD/other)","Mixed","Portugal","Portugal","Portugal","Portuguese","No","Unemployed (and job seeking)",723
+115,31,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",265,"Graduate degree (MA/MSc/MPhil/other)","White","Greece","Greece","Greece","Greek","No","Full-Time",1230
+213,29,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",47,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Other",1260
+194,31,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",107,"Undergraduate degree (BA/BSc/other)","Black","Zimbabwe","South Africa","Zimbabwe","English","No","Full-Time",2508
+308,30,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",189,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",1552
+347,28,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",26,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","Other","No","Part-Time",1003
+272,29,"Male","High school diploma/A-levels","6651E685",165,"High school diploma/A-levels","Mixed","South Africa","South Africa","South Africa","English","No","Part-Time",2026
+204,32,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",230,"Graduate degree (MA/MSc/MPhil/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",1878
+265,33,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",435,"Graduate degree (MA/MSc/MPhil/other)","White","Russian Federation","France","Russian Federation","Russian","No","Full-Time",684
+47,36,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",386,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1406
+78,29,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",60,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",908
+2,35,"Female","Technical/community college","454DE7DA",573,"Technical/community college","White","Australia","Australia","Australia","English","No","DATA_EXPIRED",1982
+160,28,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",229,"Undergraduate degree (BA/BSc/other)","White","Portugal","Czech Republic","Portugal","Portuguese","No","Full-Time",1334
+236,34,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",295,"Graduate degree (MA/MSc/MPhil/other)","Mixed","Panama","Czech Republic","Panama","Spanish","No","Full-Time",1615
+71,28,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",221,"Undergraduate degree (BA/BSc/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1024
+142,29,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",144,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","Yes","Other",1626
+116,31,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",510,"Graduate degree (MA/MSc/MPhil/other)","White","Slovenia","Slovenia","Slovenia","Slovenian","No","Full-Time",820
+33,34,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",284,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1280
+254,32,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",105,"Undergraduate degree (BA/BSc/other)","Mixed","South Africa","South Africa","South Africa","English","Yes","Part-Time",2165
+171,34,"Male","Technical/community college","454DE7DA",166,"Technical/community college","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time",1427
+202,28,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",132,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",1389
+205,30,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",337,"Secondary education (e.g. GED/GCSE)","White","Spain","Spain","Spain","Spanish","No","Unemployed (and job seeking)",1845
+330,35,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",78,"Graduate degree (MA/MSc/MPhil/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",1855
+343,34,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",263,"Undergraduate degree (BA/BSc/other)","Mixed","Latvia","Latvia","Latvia","Russian","No","Full-Time",982
+67,29,"Male","High school diploma/A-levels","454DE7DA",89,"High school diploma/A-levels","Black","Zimbabwe","South Africa","South Africa","English","Yes","Full-Time",1566
+255,30,"Female","High school diploma/A-levels","454DE7DA",272,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Due to start a new job within the next month",988
+335,34,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",140,"Graduate degree (MA/MSc/MPhil/other)","White","Netherlands","Netherlands","Netherlands","Chinese","Yes","DATA_EXPIRED",919
+220,29,"Male","High school diploma/A-levels","454DE7DA",227,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time",1140
+129,30,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",390,"Undergraduate degree (BA/BSc/other)","Asian","Myanmar","United Kingdom","Myanmar","Burmese","No","Full-Time",855
+267,36,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",228,"Graduate degree (MA/MSc/MPhil/other)","White","Russian Federation","Portugal","Russian Federation","Russian","No","Unemployed (and job seeking)",1962
+26,28,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",112,"Graduate degree (MA/MSc/MPhil/other)","Black","South Africa","South Africa","South Africa","English","Yes","Unemployed (and job seeking)",2406
+261,37,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",224,"Undergraduate degree (BA/BSc/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",730
+20,30,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",459,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1070
+324,34,"Female","Technical/community college","454DE7DA",142,"Technical/community college","Black","South Africa","South Africa","South Africa","Afrikaans","No","Full-Time",2293
+278,30,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",304,"Undergraduate degree (BA/BSc/other)","Black","Zimbabwe","South Africa","Zimbabwe","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1030
+131,34,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",185,"Graduate degree (MA/MSc/MPhil/other)","Black","South Africa","South Africa","South Africa","English","Yes","Part-Time",1876
+203,34,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",194,"Undergraduate degree (BA/BSc/other)","White","Italy","Netherlands","Italy","Italian","No","Full-Time",1077
+93,33,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",61,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","Yes","Full-Time",1008
+156,34,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",156,"Undergraduate degree (BA/BSc/other)","White","South Africa","South Africa","South Africa","Afrikaans","No","Unemployed (and job seeking)",892
+181,32,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",169,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",1261
+32,28,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",241,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time",1110
+221,29,"Male","High school diploma/A-levels","454DE7DA",313,"High school diploma/A-levels","White","Italy","Italy","Italy","Italian","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",1729
+66,33,"Female","High school diploma/A-levels","454DE7DA",167,"High school diploma/A-levels","Mixed","South Africa","South Africa","South Africa","English","No","Other",1196
+154,31,"Female","Technical/community college","454DE7DA",473,"Technical/community college","White","Spain","Spain","Spain","Spanish","No","Full-Time",647
+377,34,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",70,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Unemployed (and job seeking)",2266
+376,29,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",376,"Undergraduate degree (BA/BSc/other)","Asian","South Africa","South Africa","South Africa","English","Yes","Full-Time",1316
+427,31,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",609,"Graduate degree (MA/MSc/MPhil/other)","White","Algeria","Spain","Algeria","French","Yes","DATA_EXPIRED",1123
+433,28,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",743,"Undergraduate degree (BA/BSc/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1175
+445,33,"Female","High school diploma/A-levels","454DE7DA",339,"High school diploma/A-levels","Black","South Africa","South Africa","South Africa","English","Yes","Part-Time",2472
+243,38,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",112,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1020
+147,47,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",170,"Undergraduate degree (BA/BSc/other)","Black","Zimbabwe","South Africa","Zimbabwe","English","No","Full-Time",1357
+79,40,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",561,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1184
+177,40,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",31,"Undergraduate degree (BA/BSc/other)","Asian","Netherlands","United Kingdom","United Kingdom","Cantonese","No","Full-Time",1781
+42,42,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",164,"Graduate degree (MA/MSc/MPhil/other)","White","Czech Republic","Czech Republic","Czech Republic","Czech","DATA_EXPIRED","DATA_EXPIRED",2112
+50,41,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",74,"Graduate degree (MA/MSc/MPhil/other)","White","France","Portugal","Portugal","Portuguese","Yes","Full-Time",1362
+89,39,"Male","Technical/community college","454DE7DA",422,"Technical/community college","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1144
+310,39,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",167,"Undergraduate degree (BA/BSc/other)","White","Hungary","Hungary","Hungary","Hungarian","No","Full-Time",954
+316,42,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",171,"Undergraduate degree (BA/BSc/other)","Asian","China","United Kingdom","China","Chinese","No","Part-Time",1021
+4,47,"Female","High school diploma/A-levels","454DE7DA",177,"High school diploma/A-levels","White","Slovenia","Slovenia","Slovenia","Slovenian","No","Full-Time",1720
+275,43,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",743,"Graduate degree (MA/MSc/MPhil/other)","Mixed","Samoa","Australia","Australia","English","No","Full-Time",1236
+152,40,"Male","Technical/community college","454DE7DA",227,"Technical/community college","White","South Africa","South Africa","South Africa","Afrikaans","DATA_EXPIRED","DATA_EXPIRED",950
+323,41,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",89,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1437
+210,45,"Male","Technical/community college","454DE7DA",652,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1412
+345,47,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",134,"Undergraduate degree (BA/BSc/other)","Black","Zimbabwe","South Africa","Zimbabwe","English","No","DATA_EXPIRED",2143
+25,42,"Male","Doctorate degree (PhD/other)","454DE7DA",192,"Doctorate degree (PhD/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1411
+192,40,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",26,"Secondary education (e.g. GED/GCSE)","Other","South Africa","South Africa","South Africa","Afrikaans","No","Full-Time",1319
+196,46,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",137,"Graduate degree (MA/MSc/MPhil/other)","Black","South Africa","South Africa","South Africa","English","No","DATA_EXPIRED",2116
+281,42,"Female","Technical/community college","454DE7DA",168,"Technical/community college","White","South Africa","South Africa","South Africa","Afrikaans","No","Full-Time",1581
+197,47,"Female","High school diploma/A-levels","454DE7DA",214,"High school diploma/A-levels","White","Angola","Portugal","Portugal","English","No","Full-Time",1096
+212,43,"Male","Technical/community college","454DE7DA",70,"Technical/community college","White","South Africa","Switzerland","South Africa","Afrikaans","No","Full-Time",1324
+326,46,"Male","High school diploma/A-levels","454DE7DA",432,"High school diploma/A-levels","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1552
+77,40,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",146,"Undergraduate degree (BA/BSc/other)","White","Hungary","Hungary","Hungary","Hungarian","No","Full-Time",966
+163,41,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",133,"Undergraduate degree (BA/BSc/other)","Black","Lesotho","South Africa","South Africa","English","No","Full-Time",2878
+44,40,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",170,"Undergraduate degree (BA/BSc/other)","White","Hungary","Hungary","Hungary","Hungarian","No","Full-Time",1242
+45,43,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",133,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Other",1163
+227,38,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",69,"Graduate degree (MA/MSc/MPhil/other)","Black","Zimbabwe","South Africa","Zimbabwe","English","No","Full-Time",962
+127,43,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",789,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1424
+141,46,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",141,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",2074
+114,40,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",161,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","DATA_EXPIRED",1345
+268,45,"Male","Technical/community college","454DE7DA",427,"Technical/community college","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1525
+182,40,"Male","Doctorate degree (PhD/other)","454DE7DA",424,"Doctorate degree (PhD/other)","White","Italy","Finland","Italy","Italian","No","Full-Time",1289
+92,38,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",294,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1186
+74,40,"Male","High school diploma/A-levels","454DE7DA",259,"High school diploma/A-levels","White","Portugal","Portugal","Portugal","Portuguese","No","Unemployed (and job seeking)",850
+100,40,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",238,"Graduate degree (MA/MSc/MPhil/other)","Mixed","Spain","Spain","Spain","Spanish","No","Full-Time",2006
+263,43,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",225,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1277
+125,43,"Male","High school diploma/A-levels","454DE7DA",353,"High school diploma/A-levels","White","South Africa","South Africa","South Africa","Afrikaans","No","Part-Time",1562
+219,41,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",293,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1501
+35,46,"Male","Technical/community college","454DE7DA",153,"Technical/community college","White","Austria","Austria","Austria","German","No","Full-Time",1248
+225,41,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",194,"Undergraduate degree (BA/BSc/other)","Black","Zimbabwe","South Africa","Zimbabwe","English","No","Full-Time",1444
+112,43,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",287,"Undergraduate degree (BA/BSc/other)","White","Ireland","Ireland","Ireland","English","No","Unemployed (and job seeking)",2177
+337,38,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",424,"Graduate degree (MA/MSc/MPhil/other)","White","Spain","Spain","Spain","Spanish","No","Full-Time",946
+249,38,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",401,"Undergraduate degree (BA/BSc/other)","White","Israel","Israel","Israel","English","DATA_EXPIRED","DATA_EXPIRED",1000
+43,43,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",273,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","Yes","Full-Time",2763
+285,43,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",159,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",1351
+46,40,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",190,"Graduate degree (MA/MSc/MPhil/other)","White","Hungary","Hungary","Hungary","Hungarian","No","Full-Time",1048
+264,47,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",179,"Graduate degree (MA/MSc/MPhil/other)","Black","Tanzania","Germany","Tanzania","Swahili","No","Full-Time",2511
+153,42,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",341,"Graduate degree (MA/MSc/MPhil/other)","Mixed","Mexico","Mexico","Mexico","Spanish","No","Full-Time",1554
+34,38,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",242,"Undergraduate degree (BA/BSc/other)","White","Argentina","Spain","Argentina","Spanish","No","Unemployed (and job seeking)",956
+54,41,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",92,"Undergraduate degree (BA/BSc/other)","Black","Zambia","South Africa","Zambia","English","No","Full-Time",1522
+229,40,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",132,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1975
+81,40,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",268,"Graduate degree (MA/MSc/MPhil/other)","White","Spain","Spain","Spain","Spanish","No","Part-Time",1751
+228,43,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",215,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",2975
+185,44,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",202,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",836
+430,40,"Male","Doctorate degree (PhD/other)","454DE7DA",337,"Doctorate degree (PhD/other)","White","Italy","Italy","Italy","Italian","No","Full-Time",693
+447,40,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",946,"Graduate degree (MA/MSc/MPhil/other)","White","Czech Republic","Czech Republic","Czech Republic","Czech","Yes","Full-Time",765
+446,44,"Male","Technical/community college","454DE7DA",305,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",545
+218,55,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",555,"Undergraduate degree (BA/BSc/other)","White","Italy","Italy","Italy","Italian","No","Full-Time",1136
+58,51,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",304,"Undergraduate degree (BA/BSc/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",756
+293,53,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",138,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",2358
+96,52,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",700,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Unemployed (and job seeking)",1437
+155,49,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",373,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",2571
+144,55,"Male","Technical/community college","454DE7DA",232,"Technical/community college","Asian","Japan","Australia","Japan","Japanese","No","Full-Time",1026
+16,50,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",340,"Secondary education (e.g. GED/GCSE)","White","Hungary","Hungary","Hungary","Hungarian","No","Unemployed (and job seeking)",2477
+317,52,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",599,"Graduate degree (MA/MSc/MPhil/other)","Other","China","United Kingdom","United Kingdom","Chinese","No","Part-Time",1085
+246,51,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",168,"Undergraduate degree (BA/BSc/other)","White","Israel","Israel","Israel","Hebrew","No","Full-Time",1142
+222,50,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",803,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1165
+130,49,"Female","Technical/community college","454DE7DA",418,"Technical/community college","White","Poland","Poland","Poland","Polish","No","Full-Time",2420
+224,48,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",208,"Undergraduate degree (BA/BSc/other)","Black","South Africa","South Africa","South Africa","English","No","Full-Time",2182
+217,53,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",157,"Graduate degree (MA/MSc/MPhil/other)","White","South Africa","South Africa","South Africa","Afrikaans","No","Full-Time",2019
+233,53,"Female","Graduate degree (MA/MSc/MPhil/other)","NOCODE",437,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",716
+111,48,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",783,"Graduate degree (MA/MSc/MPhil/other)","White","Spain","Spain","Spain","English","Yes","Full-Time",1039
+195,52,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",222,"Graduate degree (MA/MSc/MPhil/other)","White","Italy","Italy","Italy","Italian","No","Full-Time",3702
+193,57,"Male","Technical/community college","454DE7DA",3,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","DATA_EXPIRED",1744
+55,48,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",323,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1941
+259,53,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",319,"Graduate degree (MA/MSc/MPhil/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Other",1310
+244,55,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",800,"Undergraduate degree (BA/BSc/other)","White","Spain","Spain","Spain","Spanish","No","Full-Time",1467
+94,55,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",244,"Undergraduate degree (BA/BSc/other)","White","South Africa","South Africa","South Africa","Afrikaans","No","Full-Time",1110
+149,57,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",244,"Undergraduate degree (BA/BSc/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",1786
+237,55,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",174,"Undergraduate degree (BA/BSc/other)","White","South Africa","South Africa","South Africa","Afrikaans","No","Full-Time",1696
+262,50,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",178,"Undergraduate degree (BA/BSc/other)","White","Spain","Spain","Spain","Spanish","No","Part-Time",1549
+82,49,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",631,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1184
+299,48,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",216,"Graduate degree (MA/MSc/MPhil/other)","White","Ireland","Ireland","Ireland","English","No","Part-Time",1211
+56,57,"Male","Doctorate degree (PhD/other)","454DE7DA",531,"Doctorate degree (PhD/other)","White","Italy","Italy","Italy","Italian","No","Full-Time",1303
+172,53,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1103,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Due to start a new job within the next month",1157
+209,53,"Female","High school diploma/A-levels","454DE7DA",496,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",953
+276,52,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",926,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",760
+302,49,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",343,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","DATA_EXPIRED",1791
+99,53,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",265,"Graduate degree (MA/MSc/MPhil/other)","White","Ireland","Ireland","Ireland","English","Yes","Part-Time",1372
+168,57,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",2083,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",949
+161,57,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",418,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1571
+306,49,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",51,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",774
+248,55,"Female","High school diploma/A-levels","454DE7DA",283,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1463
+1,51,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",210,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","DATA_EXPIRED",1346
+40,50,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",788,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1057
+226,50,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",304,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","Spain","United Kingdom","English","No","Full-Time",957
+104,56,"Female","Technical/community college","454DE7DA",176,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1333
+256,50,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",355,"Undergraduate degree (BA/BSc/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time",919
+284,56,"Male","High school diploma/A-levels","454DE7DA",190,"High school diploma/A-levels","White","Turkey","Italy","Italy","Italian","No","Full-Time",1337
+15,48,"Female","High school diploma/A-levels","454DE7DA",540,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1294
+271,51,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",598,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1014
+325,49,"Female","Technical/community college","454DE7DA",541,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1728
+266,52,"Female","High school diploma/A-levels","454DE7DA",395,"High school diploma/A-levels","White","Poland","Poland","Poland","Polish","No","Full-Time",1109
+76,48,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",268,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1783
+85,48,"Male","Undergraduate degree (BA/BSc/other)","NOCODE",879,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",898
+328,49,"Female","Technical/community college","454DE7DA",485,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",730
+158,53,"Female","High school diploma/A-levels","454DE7DA",355,"High school diploma/A-levels","White","Italy","Italy","Italy","Italian","No","Full-Time",1383
+294,54,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",882,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",992
+121,52,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",955,"Graduate degree (MA/MSc/MPhil/other)","Mixed","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",832
+373,53,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",1205,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1292
+370,52,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",1467,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1426
+407,48,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",481,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Full-Time",1114
+398,49,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",356,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1374
+424,49,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",666,"Graduate degree (MA/MSc/MPhil/other)","White","Angola","Portugal","Portugal","Portuguese","No","Full-Time",1816
+452,52,"Female","High school diploma/A-levels","454DE7DA",458,"High school diploma/A-levels","White","Italy","Italy","Italy","Italian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",2715
+52,61,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",136,"Graduate degree (MA/MSc/MPhil/other)","White","Serbia","Greece","Serbia","Serbian","Yes","Full-Time",955
+70,64,"Female","Technical/community college","454DE7DA",179,"Technical/community college","Other","South Africa","South Africa","South Africa","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",2653
+27,59,"Male","High school diploma/A-levels","454DE7DA",235,"High school diploma/A-levels","White","Greece","Greece","Greece","English","No","Other",1541
+235,63,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",352,"Graduate degree (MA/MSc/MPhil/other)","White","Poland","Poland","Poland","Polish","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1398
+138,59,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",393,"Undergraduate degree (BA/BSc/other)","White","Ireland","Ireland","Ireland","English","No","Full-Time",1046
+297,63,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",237,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1392
+349,62,"Female","High school diploma/A-levels","454DE7DA",277,"High school diploma/A-levels","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",679
+216,60,"Female","High school diploma/A-levels","454DE7DA",587,"High school diploma/A-levels","White","Italy","Italy","Italy","Italian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",2003
+175,65,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",438,"Secondary education (e.g. GED/GCSE)","White","Hungary","Hungary","Hungary","Hungarian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1451
+123,59,"Male","High school diploma/A-levels","NOCODE",154,"High school diploma/A-levels","White","South Africa","South Africa","South Africa","English","No","Full-Time",1303
+242,67,"Male","Doctorate degree (PhD/other)","454DE7DA",126,"Doctorate degree (PhD/other)","White","United States","Israel","United States","English","No","Unemployed (and job seeking)",2479
+346,67,"Female","High school diploma/A-levels","454DE7DA",545,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1428
+315,64,"Male","Technical/community college","454DE7DA",551,"Technical/community college","White","Italy","Italy","Italy","Italian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1234
+102,61,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",291,"Graduate degree (MA/MSc/MPhil/other)","White","Belgium","Belgium","Belgium","Dutch","No","Full-Time",1039
+145,65,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",178,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","Greece","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1773
+318,64,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",266,"Graduate degree (MA/MSc/MPhil/other)","White","Italy","Italy","Italy","Italian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",939
+9,66,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",289,"Graduate degree (MA/MSc/MPhil/other)","White","Spain","Spain","Spain","Spanish","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1422
+295,63,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1245,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1224
+22,63,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",550,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","DATA_EXPIRED",1825
+91,62,"Female","Doctorate degree (PhD/other)","454DE7DA",561,"Doctorate degree (PhD/other)","White","Australia","Australia","Australia","English","No","Full-Time",904
+87,62,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",394,"Graduate degree (MA/MSc/MPhil/other)","White","Italy","Italy","Italy","Italian","No","Part-Time",2607
+143,58,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",523,"Secondary education (e.g. GED/GCSE)","White","Spain","Spain","Spain","Spanish","No","Full-Time",1763
+331,61,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",624,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",948
+215,64,"Female","Technical/community college","454DE7DA",499,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1466
+207,64,"Male","High school diploma/A-levels","454DE7DA",1111,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",965
+37,58,"Female","Graduate degree (MA/MSc/MPhil/other)","NOCODE",164,"Graduate degree (MA/MSc/MPhil/other)","White","United States","United Kingdom","United Kingdom","English","No","Part-Time",873
+39,60,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",397,"Graduate degree (MA/MSc/MPhil/other)","White","Italy","Italy","Italy","Italian","No","Full-Time",1703
+140,65,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",959,"Undergraduate degree (BA/BSc/other)","White","Germany","United Kingdom","Germany","German","No","Not in paid work (e.g. homemaker', 'retired or disabled)",869
+83,67,"Male","Technical/community college","454DE7DA",635,"Technical/community college","White","Germany","United Kingdom","United Kingdom","English","No","Full-Time",3575
+122,58,"Female","High school diploma/A-levels","454DE7DA",564,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1152
+173,59,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",230,"Undergraduate degree (BA/BSc/other)","White","Kazakhstan","Austria","Austria","Russian","No","Part-Time",1347
+352,61,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",1198,"Undergraduate degree (BA/BSc/other)","White","Italy","Greece","United States","English","No","Full-Time",1843
+247,63,"Male","Technical/community college","454DE7DA",1134,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Unemployed (and job seeking)",1160
+223,61,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",778,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED",835
+13,63,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",473,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED",1964
+286,64,"Female","Technical/community college","454DE7DA",1052,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1044
+353,65,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",964,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","Gaelic","No","Part-Time",1886
+300,64,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",178,"Undergraduate degree (BA/BSc/other)","White","France","France","France","French","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1567
+358,64,"Female","Technical/community college","454DE7DA",1615,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1814
+277,58,"Female","Technical/community college","454DE7DA",795,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1228
+61,63,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",20,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1873
+113,67,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",978,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1026
+344,58,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",77,"Undergraduate degree (BA/BSc/other)","White","Portugal","Portugal","Portugal","Portuguese","No","Part-Time",3170
+139,67,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1750,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1593
+287,64,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",401,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1346
+119,60,"Male","Technical/community college","454DE7DA",631,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1471
+341,65,"Male","High school diploma/A-levels","454DE7DA",903,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1009
+361,61,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",1381,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1623
+357,60,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",1734,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1101
+351,59,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1225,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",923
+359,63,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",880,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",2100
+364,64,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",1101,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1691
+363,60,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",407,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",788
+368,63,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",2005,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","Part-Time",1587
+366,63,"Female","Technical/community college","454DE7DA",1594,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","DATA_EXPIRED",1081
+369,67,"Female","Graduate degree (MA/MSc/MPhil/other)","NOCODE",568,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",2219
+374,58,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",1126,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Unemployed (and job seeking)",1281
+420,62,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",2321,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","DATA_EXPIRED",757
+164,71,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",1087,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","New Zealand","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1152
+312,74,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",1210,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1326
+208,68,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",1104,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","Ireland","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",902
+260,72,"Male","High school diploma/A-levels","454DE7DA",1029,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",2234
+252,71,"Male","Technical/community college","454DE7DA",1116,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1902
+288,76,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",484,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1336
+60,72,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",201,"Undergraduate degree (BA/BSc/other)","White","South Africa","South Africa","South Africa","English","No","Other",1294
+133,75,"Male","High school diploma/A-levels","454DE7DA",585,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1408
+354,70,"Male","Technical/community college","454DE7DA",1475,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",921
+356,69,"Female","High school diploma/A-levels","454DE7DA",1071,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",951
+360,71,"Male","Technical/community college","454DE7DA",1159,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1877
+362,73,"Male","High school diploma/A-levels","454DE7DA",1380,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1331
+371,75,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1082,"Graduate degree (MA/MSc/MPhil/other)","White","Ireland","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1018
+372,70,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",894,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1186
+375,70,"Male","Technical/community college","454DE7DA",951,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",2174
+380,74,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",1489,"Undergraduate degree (BA/BSc/other)","White","Cyprus","United Kingdom","United Kingdom","Greek","No","Other",1346
+383,70,"Male","Technical/community college","454DE7DA",650,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1652
+384,68,"Female","High school diploma/A-levels","454DE7DA",161,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1114
+385,77,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",583,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1345
+386,75,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",431,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1695
+388,74,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",227,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1430
+391,73,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",1319,"Undergraduate degree (BA/BSc/other)","White","United States","United Kingdom","United States","English","No","DATA_EXPIRED",1500
+390,73,"Female","Secondary education (e.g. GED/GCSE)","NOCODE",1196,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1430
+393,72,"Male","High school diploma/A-levels","454DE7DA",1295,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time",1357
+392,69,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",1571,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",722
+396,75,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",409,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","Scots","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1043
+395,72,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",527,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1358
+400,69,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",932,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",809
+399,76,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",891,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1470
+403,70,"Male","High school diploma/A-levels","454DE7DA",879,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1857
+405,68,"Female","Technical/community college","C18KFDFW",189,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1620
+437,71,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",744,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1988
+406,73,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",757,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","Not in paid work (e.g. homemaker', 'retired or disabled)",2657
+421,68,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",1560,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",1040
+409,76,"Female","High school diploma/A-levels","454DE7DA",327,"High school diploma/A-levels","White","United Kingdom","South Africa","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1941
+412,76,"Male","High school diploma/A-levels","454DE7DA",710,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1332
+410,74,"Male","No formal qualifications","454DE7DA",978,"No formal qualifications","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other",1217
+411,70,"Male","Technical/community college","454DE7DA",2073,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1719
+414,70,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",766,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",726
+415,70,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",189,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1205
+416,75,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",948,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1432
+417,68,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1462,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1301
+418,68,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",1028,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1585
+422,68,"Female","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1087,"Graduate degree (MA/MSc/MPhil/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1466
+423,68,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",1945,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",719
+425,70,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",951,"Undergraduate degree (BA/BSc/other)","Mixed","Austria","United Kingdom","United Kingdom","German","No","Part-Time",1590
+426,74,"Female","Doctorate degree (PhD/other)","454DE7DA",618,"Doctorate degree (PhD/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1540
+428,76,"Female","High school diploma/A-levels","454DE7DA",1343,"High school diploma/A-levels","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time",1009
+436,68,"Male","Graduate degree (MA/MSc/MPhil/other)","454DE7DA",1377,"Graduate degree (MA/MSc/MPhil/other)","White","United States","United Kingdom","United States","English","No","Part-Time",1465
+431,72,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",614,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","Ireland","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1439
+434,71,"Male","Technical/community college","454DE7DA",561,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1475
+432,76,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",674,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",865
+438,73,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",1736,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1018
+439,69,"Male","Undergraduate degree (BA/BSc/other)","454DE7DA",2182,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1388
+441,68,"Female","Undergraduate degree (BA/BSc/other)","454DE7DA",650,"Undergraduate degree (BA/BSc/other)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1458
+442,74,"Female","Secondary education (e.g. GED/GCSE)","454DE7DA",1444,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1392
+449,70,"Male","Secondary education (e.g. GED/GCSE)","454DE7DA",1048,"Secondary education (e.g. GED/GCSE)","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)",1466
+451,69,"Female","Technical/community college","454DE7DA",1623,"Technical/community college","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED",2235

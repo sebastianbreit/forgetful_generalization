@@ -1,0 +1,9 @@
+"input_model","fitted_model","minRounds"
+"Memory","full",4
+"Memory","null",1
+"Memory","recency",7
+"Memory","surprise+",6
+"NoMemory","full",2
+"NoMemory","null",2
+"NoMemory","recency",7
+"NoMemory","surprise+",5

@@ -1,0 +1,48 @@
+summary(simple_model_reward)
+Linear mixed model fit by REML ['lmerMod']
+Formula: z ~ poly(age, 2) * poly(step, 2) + (1 + poly(age, 2) + poly(step,      2) | id)
+   Data: d
+
+REML criterion at convergence: 353439.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.7389 -0.5421  0.1591  0.6872  2.6268 
+
+Random effects:
+ Groups   Name           Variance  Std.Dev. Corr                   
+ id       (Intercept)    8.003e-02  0.2829                         
+          poly(age, 2)1  3.764e+01  6.1355  -1.00                  
+          poly(age, 2)2  3.090e+02 17.5797  -0.09  0.08            
+          poly(step, 2)1 5.338e+03 73.0623   0.84 -0.85 -0.11      
+          poly(step, 2)2 5.540e+02 23.5363  -0.18  0.17  0.19 -0.02
+ Residual                7.902e-01  0.8890                         
+Number of obs: 134940, groups:  id, 346
+
+Fixed effects:
+                               Estimate Std. Error t value
+(Intercept)                  -6.095e-04  1.563e-02  -0.039
+poly(age, 2)1                -1.747e+00  5.701e+00  -0.306
+poly(age, 2)2                -8.567e+00  5.738e+00  -1.493
+poly(step, 2)1                8.564e+01  4.027e+00  21.266
+poly(step, 2)2               -6.251e+01  1.546e+00 -40.423
+poly(age, 2)1:poly(step, 2)1 -2.772e+03  1.479e+03  -1.874
+poly(age, 2)2:poly(step, 2)1 -1.656e+03  1.475e+03  -1.122
+poly(age, 2)1:poly(step, 2)2 -1.461e+03  5.677e+02  -2.573
+poly(age, 2)2:poly(step, 2)2  2.005e+02  5.676e+02   0.353
+
+Correlation of Fixed Effects:
+             (Intr) ply(g,2)1 ply(g,2)2 ply(s,2)1 ply(s,2)2 p(,2)1:(,2)1 p(,2)2:(,2)1 p(,2)1:(,2)2
+poly(ag,2)1  -0.111                                                                               
+poly(ag,2)2  -0.012 -0.089                                                                        
+ply(stp,2)1   0.802 -0.048    -0.017                                                              
+ply(stp,2)2  -0.140  0.008     0.025    -0.015                                                    
+p(,2)1:(,2)1 -0.047  0.793    -0.044     0.000     0.000                                          
+p(,2)2:(,2)1 -0.016 -0.039     0.787     0.000     0.000    -0.002                                
+p(,2)1:(,2)2  0.008 -0.121     0.011     0.000     0.000    -0.014        0.003                   
+p(,2)2:(,2)2  0.024  0.007    -0.126     0.000     0.000     0.000       -0.013       -0.001      
+fit warnings:
+Some predictor variables are on very different scales: consider rescaling
+optimizer (nloptwrap) convergence code: 0 (OK)
+unable to evaluate scaled gradient
+Model failed to converge: degenerate  Hessian with 5 negative eigenvalues

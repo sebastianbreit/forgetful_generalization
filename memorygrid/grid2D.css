@@ -1,0 +1,390 @@
+
+/* Smartphones & small tablets ----------- */
+@media only screen 
+and (max-device-width : 760px) {
+  /* Bootstrap xs, sm */
+  /*++++++++++++++++++++++++++++++++++++++++++++++++++ Grid definitions +++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.grid td:hover {
+  cursor: pointer;
+}
+
+.gridEx {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.grid {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.gridFixation {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.grid td {
+  width: 25px;
+  height: 25px;
+  border: 3px solid lightgrey;
+  font-size: 10px;
+  color: black;
+  background-color: white;
+  text-align: center;
+
+}
+
+.gridEx td {
+  width: 25px;
+  height: 25px;
+  border: 3px solid lightgrey;
+  font-size: 10px;
+}
+
+
+#grid {
+  border-collapse: separate;
+  border: 3px solid lightgrey;
+  float: center;
+  /*width: 250px;*/
+}
+
+#gridFixation {
+  border-collapse: separate;
+  border: 3px solid lightgrey;
+}
+.gridFixation td {
+  width: 25px;
+  height: 25px;
+  color: black;
+  vertical-align: bottom;
+  background-color: white;
+}
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++ End Grid definitions +++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+}
+
+
+
+
+/* Small tablets ----------- */
+@media only screen 
+and (min-device-width : 770px)
+and (max-device-width : 990px) {
+  /* Bootstrap md */
+  /*++++++++++++++++++++++++++++++++++++++++++++++++++ Grid definitions +++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.grid td:hover {
+  cursor: pointer;
+}
+
+.gridEx {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.grid {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.gridFixation {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.grid td {
+  width: 40px;
+  height: 40px;
+  border: 3px solid lightgrey;
+  font-size: 18px;
+  color: black;
+  background-color: white;
+  text-align: center;
+
+}
+
+.gridEx td {
+  width: 40px;
+  height: 40px;
+  border: 3px solid lightgrey;
+  font-size: 18px;
+}
+
+
+#grid {
+  border-collapse: separate;
+  border: 3px solid lightgrey;
+  float: center;
+  /*width: 250px;*/
+}
+
+#gridFixation {
+  border-collapse: separate;
+  border: 3px solid lightgrey;
+}
+.gridFixation td {
+  width: 40px;
+  height: 40px;
+  color: black;
+  vertical-align: bottom;
+  background-color: white;
+}
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++ End Grid definitions +++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+}
+
+
+/* Desktops, laptops and landscape tablets----------- */
+@media only screen 
+and (min-width : 992px) {
+  /*++++++++++++++++++++++++++++++++++++++++++++++++++ Grid definitions +++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.grid td:hover {
+  cursor: pointer;
+}
+
+.gridEx {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.grid {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.gridFixation {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.grid td {
+  width: 50px;
+  height: 50px;
+  border: 3px solid lightgrey;
+  font-size: 28px;
+  color: black;
+  background-color: white;
+  text-align: center;
+
+}
+
+.gridEx td {
+  width: 50px;
+  height: 50px;
+  border: 3px solid lightgrey;
+  font-size: 28px;
+}
+
+
+#grid {
+  border-collapse: separate;
+  border: 3px solid lightgrey;
+  float: center;
+  /*width: 700px;*/
+}
+
+#gridFixation {
+  border-collapse: separate;
+  border: 3px solid lightgrey;
+}
+.gridFixation td {
+  width: 50px;
+  height: 50px;
+  color: black;
+  vertical-align: bottom;
+  background-color: white;
+}
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++ End Grid definitions +++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+}
+
+
+
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+#consentCheckboxText {
+  margin-left: 10px;
+  font-size: 22px;
+}
+.form-check label {
+  margin-left: 10px;
+  font-size: 16px;
+}
+.form-check .form-check-input[type=radio] {
+  border-radius: 100%;
+  height: 15px;
+  width: 15px;
+}
+.form-check .form-check-input[type=checkbox] {
+  height: 30px;
+  width: 30px;
+  margin-left: 3px;
+  margin-bottom: 10px;
+}
+
+.container {
+  margin-top:  30px;
+  margin-bottom:  30px;
+}
+
+.highlight {
+  border-color: red !important;
+  border-style: dashed !important;
+}
+
+.flashGrid{
+  border: 3px solid red !important;
+}
+
+.afc{
+  cursor:pointer;
+  padding-bottom:10px;
+}
+.stimuliDisplay{
+  text-align: center;
+  padding: 14px 24px;
+}
+
+
+
+
+.border-dashed {
+  border-color: gray !important;
+  border-style: dashed !important;
+}
+
+.border-blink {
+  animation: blink-animation 1s infinite;
+}
+@keyframes blink-animation {
+  0% { border-color: inherit;}
+  50% { border-color: red; border-style: dashed; }
+  100% { border-color: inherit;}
+}
+
+
+.bt {
+  background: #333;
+  color: #fdfdfd;
+  min-height: 35px;
+  margin: 0;
+  border-radius: 3px;
+  border: 0;
+  line-height: 35px;
+  text-align: center;
+  margin: .5em 0 .5em 0;
+}
+
+a.bt {
+  display: inline;
+  padding: 7px 10px 7px 10px;
+}
+
+.bt:hover {
+  background: #000;
+}
+
+@media only screen and (max-width:480px) {
+  .bt {
+    width: 100%;
+  }
+  a.bt {
+    display: block;
+    padding: 0;
+  }
+}
+
+/* SLIDERS */
+input[type=range] {
+  -webkit-appearance: none;
+  margin: 18px 0;
+  width: 100%;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #3071a9;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 36px;
+  width: 36px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -14px;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #367ebd;
+}
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #3071a9;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-moz-range-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 36px;
+  width: 36px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+}
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: transparent;
+  border-color: transparent;
+  border-width: 16px 0;
+  color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+  background: #2a6495;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]::-ms-fill-upper {
+  background: #3071a9;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]::-ms-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 36px;
+  width: 36px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #3071a9;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #367ebd;
+}

@@ -1,0 +1,73 @@
+# Commands for executing scripts on cluster
+
+## Copying files
+Execute from simulations folder
+### Data
+scp -r data/* sbreit80@134.2.168.52:/home/wu/sbreit80/data
+
+
+
+
+### Code
+scp -r models.R sbreit80@134.2.168.52:/home/wu/sbreit80/models.R
+scp -r data_munging.R sbreit80@134.2.168.52:/home/wu/sbreit80/data_munging.R
+scp -r plotting/brms_plots.R sbreit80@134.2.168.52:/home/wu/sbreit80/brms_plots.R
+
+
+scp -r model-recovery/modelComparison.R sbreit80@134.2.168.52:/home/wu/sbreit80/model-recovery/modelComparison.R
+scp -r model-recovery/simulation_fitting.R sbreit80@134.2.168.52:/home/wu/sbreit80/model-recovery/simulation_fitting.R
+scp -r model-recovery/behaviour_fitting.R sbreit80@134.2.168.52:/home/wu/sbreit80/model-recovery/behaviour_fitting.R
+
+scp -r cluster-scripts/commands.md sbreit80@134.2.168.52:/home/wu/sbreit80/cluster-scripts/commands.md
+scp -r cluster-scripts/r_env.def sbreit80@134.2.168.52:/home/wu/sbreit80/cluster-scripts/r_env.def
+scp -r cluster-scripts/forgetful_exploration.sh sbreit80@134.2.168.52:/home/wu/sbreit80/cluster-scripts/forgetful_exploration.sh
+scp -r cluster-scripts/forgetful_regs.sh sbreit80@134.2.168.52:/home/wu/sbreit80/cluster-scripts/forgetful_regs.sh
+
+###scp -r cluster-scripts/r_brms.sif sbreit80@134.2.168.52:/home/wu/sbreit80/cluster-scripts/r_brms.sif
+
+###scp -r cluster-scripts/r_env.sif sbreit80@134.2.168.52:/home/wu/sbreit80/cluster-scripts/r_env.sif
+###singularity build r_env.sif r_env.def
+ 
+### Copy Output
+rsync -avh -e ssh  sbreit80@134.2.168.52:/home/wu/sbreit80/agingexploration/output/*  '/media/beel/DATA/___UNI___/Semester 4/Laborpraktikum/code/simulations/output'
+
+
+scp -r sbreit80@134.2.168.52:/mnt/qb/work/wu/sbreit80/logs/1714244_* '/media/beel/DATA/___UNI___/Semester 4/Laborpraktikum/code/simulations/fitting_results/output/experiment_11x11/logs'
+scp -r sbreit80@134.2.168.52:/mnt/qb/work/wu/sbreit80/logs/1715203_* '/media/beel/DATA/___UNI___/Semester 4/Laborpraktikum/code/simulations/fitting_results/output/experiment_11x11/logs'
+
+
+### Copy brms Output
+rsync -avh -e ssh /source/path/ host:/destination/path
+
+scp -r sbreit80@134.2.168.52:/home/wu/sbreit80/agingexploration/brmsModels/brm_unscaled_distance_agebin_x_prevz_x_condition_4kiter.brm '/media/beel/DATA/___UNI___/Semester 4/Laborpraktikum/code/simulations/brmsModels'
+
+
+rsync -avh -e ssh sbreit80@134.2.168.52:/home/wu/sbreit80/agingexploration/brmsModels '/media/beel/DATA/___UNI___/Semester 4/Laborpraktikum/code/simulations/brmsModels'
+
+
+scp -r sbreit80@134.2.168.52:/home/wu/sbreit80/agingexploration/brmsModels '/media/beel/DATA/___UNI___/Semester 4/Laborpraktikum/code/simulations/brmsModels'
+
+
+
+### Base R
+Rscript model-recovery/behaviour_fitting.R 1
+
+### With Singularity
+singularity exec --bind '/media/beel/DATA/___UNI___/Semester 4/Laborpraktikum/code/simulations':/home/ cluster-scripts/r_env.sif Rscript '/home/model-recovery/modelComparison.R' '1' 
+
+## Slurm execution
+sbatch cluster-scripts/run_modelfitting.sh 1-900
+squeue | grep sbreit80
+
+### Singularity execution on cluster
+singularity exec --bind /mnt/qb/work/wu/sbreit80/batch_exponential_2pars:/home/data/batch_exponential_2pars cluster-scripts/r_env.sif Rscript /home/wu/sbreit80/modelComparison.R '1' 
+
+# Files and folders necessary
+models.R
+data_munging.R
+model-recovery/*
+output/
+data/experiment_data_full/*
+
+cluster-scripts/*
+tardis.sh

@@ -1,0 +1,52 @@
+summary(simple_model_reward)
+Linear mixed model fit by REML ['lmerMod']
+Formula: z ~ poly(age, 2) * poly(step, 2) * scenario + (1 + poly(age,      2) + poly(step, 2) + scenario | id)
+   Data: d
+
+REML criterion at convergence: 327814.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.7402 -0.5430  0.1525  0.6802  2.7022 
+
+Random effects:
+ Groups   Name                     Variance  Std.Dev. Corr                         
+ id       (Intercept)              8.497e-02  0.2915                               
+          poly(age, 2)1            5.606e+01  7.4872  -0.82                        
+          poly(age, 2)2            3.575e+01  5.9789   0.15  0.41                  
+          poly(step, 2)1           4.924e+03 70.1705   0.78 -0.83 -0.36            
+          poly(step, 2)2           5.683e+02 23.8397  -0.20  0.55  0.40 -0.02      
+          scenarioMemory Condition 4.400e-02  0.2098  -0.21  0.08 -0.39  0.09  0.06
+ Residual                          7.731e-01  0.8793                               
+Number of obs: 125944, groups:  id, 346
+
+Fixed effects:
+                                                        Estimate Std. Error t value
+(Intercept)                                            1.275e-02  1.612e-02   0.791
+poly(age, 2)1                                         -1.276e+00  5.760e+00  -0.221
+poly(age, 2)2                                         -7.618e+00  5.716e+00  -1.333
+poly(step, 2)1                                         8.392e+01  3.972e+00  21.128
+poly(step, 2)2                                        -6.071e+01  1.786e+00 -33.996
+scenarioMemory Condition                              -2.540e-02  1.232e-02  -2.062
+poly(age, 2)1:poly(step, 2)1                          -2.370e+03  1.409e+03  -1.682
+poly(age, 2)2:poly(step, 2)1                          -4.341e+02  1.405e+03  -0.309
+poly(age, 2)1:poly(step, 2)2                          -2.147e+03  6.336e+02  -3.389
+poly(age, 2)2:poly(step, 2)2                           4.008e+02  6.330e+02   0.633
+poly(age, 2)1:scenarioMemory Condition                -1.223e+00  4.369e+00  -0.280
+poly(age, 2)2:scenarioMemory Condition                 5.099e-02  4.369e+00   0.012
+poly(step, 2)1:scenarioMemory Condition               -2.006e+00  1.759e+00  -1.141
+poly(step, 2)2:scenarioMemory Condition               -2.848e+00  1.759e+00  -1.620
+poly(age, 2)1:poly(step, 2)1:scenarioMemory Condition -4.149e+02  6.241e+02  -0.665
+poly(age, 2)2:poly(step, 2)1:scenarioMemory Condition -2.190e+03  6.241e+02  -3.510
+poly(age, 2)1:poly(step, 2)2:scenarioMemory Condition  1.782e+03  6.241e+02   2.855
+poly(age, 2)2:poly(step, 2)2:scenarioMemory Condition -4.726e+02  6.241e+02  -0.757
+
+Correlation matrix not shown by default, as p = 18 > 12.
+Use print(x, correlation=TRUE)  or
+    vcov(x)        if you need it
+
+fit warnings:
+Some predictor variables are on very different scales: consider rescaling
+optimizer (nloptwrap) convergence code: 0 (OK)
+unable to evaluate scaled gradient
+Model failed to converge: degenerate  Hessian with 5 negative eigenvalues

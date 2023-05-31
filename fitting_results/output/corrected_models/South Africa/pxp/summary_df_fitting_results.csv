@@ -1,0 +1,621 @@
+"participant","age","age_bin","education","sex","subject","scenario","fitted_model","summed_nLL","rounds"
+4,22,"18-27","High school diploma/A-levels","Female",4,"Memory","full",595.95785092013,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"Memory","GP",572.590021192833,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"Memory","recency",572.915685876272,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"Memory","surprise+",578.003246912088,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"Memory","surprise+_static",1786.60776303635,21
+4,22,"18-27","High school diploma/A-levels","Female",4,"NoMemory","full",539.000832004992,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"NoMemory","GP",535.715887604309,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"NoMemory","recency",533.465635604594,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"NoMemory","surprise+",531.584770758545,7
+4,22,"18-27","High school diploma/A-levels","Female",4,"NoMemory","surprise+_static",1621.44782946872,21
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"Memory","full",588.909241323583,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"Memory","GP",682.734249119456,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"Memory","recency",585.093111237352,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"Memory","surprise+",685.717641220457,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"Memory","surprise+_static",1984.80542907879,21
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"NoMemory","full",605.616348678589,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"NoMemory","GP",690.40326340445,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"NoMemory","recency",609.083818400493,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"NoMemory","surprise+",710.26537372965,7
+14,28,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",14,"NoMemory","surprise+_static",2011.56118132988,21
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"Memory","full",610.326471602277,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"Memory","GP",708.294817856591,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"Memory","recency",609.537085659159,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"Memory","surprise+",689.008118331082,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"Memory","surprise+_static",2079.43736624751,21
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"NoMemory","full",625.29588488173,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"NoMemory","GP",662.774608645749,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"NoMemory","recency",618.496034436926,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"NoMemory","surprise+",645.135511020633,7
+19,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",19,"NoMemory","surprise+_static",1913.15133748053,21
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"Memory","full",637.479512084008,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"Memory","GP",697.719578070113,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"Memory","recency",587.33818621407,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"Memory","surprise+",716.850117989328,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"Memory","surprise+_static",1983.67980873393,21
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"NoMemory","full",534.003785589143,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"NoMemory","GP",542.93495520481,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"NoMemory","recency",611.545701613327,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"NoMemory","surprise+",597.907000701166,7
+30,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",30,"NoMemory","surprise+_static",1552.88185465557,21
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"Memory","full",631.612486198368,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"Memory","GP",730.907264909183,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"Memory","recency",617.072879400623,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"Memory","surprise+",616.311264150323,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"Memory","surprise+_static",1983.96453375061,21
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"NoMemory","full",627.617347540322,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"NoMemory","GP",777.271306030152,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"NoMemory","recency",629.799142888565,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"NoMemory","surprise+",779.818944504224,7
+37,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",37,"NoMemory","surprise+_static",2267.88361035785,21
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"Memory","full",630.422244001253,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"Memory","GP",682.429583651389,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"Memory","recency",633.035188506823,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"Memory","surprise+",739.388842349668,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"Memory","surprise+_static",2069.06167511481,21
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"NoMemory","full",579.631286217452,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"NoMemory","GP",638.467407013885,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"NoMemory","recency",612.084991040551,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"NoMemory","surprise+",593.555482509723,7
+41,72,"68-77","Undergraduate degree (BA/BSc/other)","Male",41,"NoMemory","surprise+_static",1833.17907804732,21
+45,33,"28-37","High school diploma/A-levels","Female",45,"Memory","full",549.47952945273,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"Memory","GP",698.578799995352,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"Memory","recency",554.517697285982,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"Memory","surprise+",724.532511194087,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"Memory","surprise+_static",1982.12287195863,21
+45,33,"28-37","High school diploma/A-levels","Female",45,"NoMemory","full",600.165310637181,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"NoMemory","GP",628.030619887149,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"NoMemory","recency",640.572074343017,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"NoMemory","surprise+",613.227115311366,7
+45,33,"28-37","High school diploma/A-levels","Female",45,"NoMemory","surprise+_static",1852.23883523162,21
+46,29,"28-37","High school diploma/A-levels","Male",46,"Memory","full",455.850476847214,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"Memory","GP",594.520379410548,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"Memory","recency",459.539306414405,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"Memory","surprise+",626.664568615228,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"Memory","surprise+_static",1711.88245045116,21
+46,29,"28-37","High school diploma/A-levels","Male",46,"NoMemory","full",643.478310785876,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"NoMemory","GP",628.223206595164,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"NoMemory","recency",565.450886172955,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"NoMemory","surprise+",641.21363369112,7
+46,29,"28-37","High school diploma/A-levels","Male",46,"NoMemory","surprise+_static",1958.43315911513,21
+47,64,"58-67","Technical/community college","Female",47,"Memory","full",595.125588971065,7
+47,64,"58-67","Technical/community college","Female",47,"Memory","GP",649.384977494636,7
+47,64,"58-67","Technical/community college","Female",47,"Memory","recency",583.835406403205,7
+47,64,"58-67","Technical/community college","Female",47,"Memory","surprise+",681.922467275775,7
+47,64,"58-67","Technical/community college","Female",47,"Memory","surprise+_static",1990.97149702966,21
+47,64,"58-67","Technical/community college","Female",47,"NoMemory","full",516.04016533912,7
+47,64,"58-67","Technical/community college","Female",47,"NoMemory","GP",613.326259651142,7
+47,64,"58-67","Technical/community college","Female",47,"NoMemory","recency",514.064613048369,7
+47,64,"58-67","Technical/community college","Female",47,"NoMemory","surprise+",571.640024544081,7
+47,64,"58-67","Technical/community college","Female",47,"NoMemory","surprise+_static",1717.93081847762,21
+50,22,"18-27","High school diploma/A-levels","Female",50,"Memory","full",684.802222896455,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"Memory","GP",766.617314982407,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"Memory","recency",684.530270292488,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"Memory","surprise+",779.070313335278,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"Memory","surprise+_static",2233.60479492308,21
+50,22,"18-27","High school diploma/A-levels","Female",50,"NoMemory","full",672.873336007049,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"NoMemory","GP",684.339334290545,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"NoMemory","recency",698.538653397259,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"NoMemory","surprise+",695.604689856997,7
+50,22,"18-27","High school diploma/A-levels","Female",50,"NoMemory","surprise+_static",2019.9836261365,21
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"Memory","full",533.584744795074,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"Memory","GP",628.261771045859,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"Memory","recency",532.283335623004,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"Memory","surprise+",611.144661751619,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"Memory","surprise+_static",1818.92309036688,21
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"NoMemory","full",487.092987252668,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"NoMemory","GP",573.925093213595,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"NoMemory","recency",524.175369951108,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"NoMemory","surprise+",572.494354507897,7
+66,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",66,"NoMemory","surprise+_static",1547.83789547255,21
+68,21,"18-27","High school diploma/A-levels","Male",68,"Memory","full",719.96927569627,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"Memory","GP",662.283833009598,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"Memory","recency",591.176813579226,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"Memory","surprise+",680.022926891599,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"Memory","surprise+_static",2070.72587207952,21
+68,21,"18-27","High school diploma/A-levels","Male",68,"NoMemory","full",587.185286889501,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"NoMemory","GP",578.965203182284,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"NoMemory","recency",585.765708475201,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"NoMemory","surprise+",646.81351421069,7
+68,21,"18-27","High school diploma/A-levels","Male",68,"NoMemory","surprise+_static",1869.45425299055,21
+84,59,"58-67","High school diploma/A-levels","Male",84,"Memory","full",570.689954619225,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"Memory","GP",600.188507384674,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"Memory","recency",607.766493141558,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"Memory","surprise+",606.010804578838,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"Memory","surprise+_static",1828.89964859259,21
+84,59,"58-67","High school diploma/A-levels","Male",84,"NoMemory","full",626.079997564925,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"NoMemory","GP",626.406188680753,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"NoMemory","recency",608.456865080411,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"NoMemory","surprise+",645.893641363936,7
+84,59,"58-67","High school diploma/A-levels","Male",84,"NoMemory","surprise+_static",1888.19891345982,21
+86,43,"38-47","High school diploma/A-levels","Male",86,"Memory","full",632.473825004691,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"Memory","GP",631.075813958675,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"Memory","recency",603.473741962976,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"Memory","surprise+",624.654808206859,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"Memory","surprise+_static",1768.57157575817,21
+86,43,"38-47","High school diploma/A-levels","Male",86,"NoMemory","full",697.606150174062,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"NoMemory","GP",695.441101454909,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"NoMemory","recency",654.848196427649,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"NoMemory","surprise+",735.892420530452,7
+86,43,"38-47","High school diploma/A-levels","Male",86,"NoMemory","surprise+_static",2177.62143887366,21
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"Memory","full",607.911668770796,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"Memory","GP",799.185508984948,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"Memory","recency",613.570239391563,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"Memory","surprise+",719.604197175338,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"Memory","surprise+_static",2097.65299483296,21
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"NoMemory","full",482.385811996096,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"NoMemory","GP",591.141972697579,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"NoMemory","recency",492.476286507374,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"NoMemory","surprise+",583.951510488117,7
+90,34,"28-37","Graduate degree (MA/MSc/MPhil/other)","Female",90,"NoMemory","surprise+_static",1717.17919429029,21
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"Memory","full",657.985184766639,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"Memory","GP",673.635520215913,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"Memory","recency",630.995836765048,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"Memory","surprise+",694.42164640481,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"Memory","surprise+_static",1938.54635941229,21
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"NoMemory","full",505.755257929262,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"NoMemory","GP",489.204242780028,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"NoMemory","recency",547.692895272425,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"NoMemory","surprise+",483.973162376776,7
+92,25,"18-27","Undergraduate degree (BA/BSc/other)","Female",92,"NoMemory","surprise+_static",1766.63455855025,21
+93,20,"18-27","High school diploma/A-levels","Female",93,"Memory","full",587.843336056246,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"Memory","GP",737.953258788687,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"Memory","recency",592.011678539541,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"Memory","surprise+",748.01240465745,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"Memory","surprise+_static",2092.01197228816,21
+93,20,"18-27","High school diploma/A-levels","Female",93,"NoMemory","full",651.715428618434,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"NoMemory","GP",829.353722586469,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"NoMemory","recency",638.86897489745,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"NoMemory","surprise+",717.867671158819,7
+93,20,"18-27","High school diploma/A-levels","Female",93,"NoMemory","surprise+_static",2097.0222125372,21
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"Memory","full",555.62008229887,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"Memory","GP",673.497590210029,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"Memory","recency",552.449555374391,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"Memory","surprise+",612.570155581673,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"Memory","surprise+_static",1813.4223965886,21
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"NoMemory","full",461.555132844187,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"NoMemory","GP",502.077733021085,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"NoMemory","recency",514.70446023956,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"NoMemory","surprise+",483.26145834685,7
+98,46,"38-47","Undergraduate degree (BA/BSc/other)","Female",98,"NoMemory","surprise+_static",1436.5429234373,21
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"Memory","full",556.644990270552,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"Memory","GP",646.73376468909,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"Memory","recency",580.56285227676,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"Memory","surprise+",694.831007558584,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"Memory","surprise+_static",1836.91573936668,21
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"NoMemory","full",640.412679044966,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"NoMemory","GP",703.693750302868,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"NoMemory","recency",623.777129286326,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"NoMemory","surprise+",684.102345056368,7
+99,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",99,"NoMemory","surprise+_static",2010.12277094724,21
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"Memory","full",637.82446942447,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"Memory","GP",767.535810461887,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"Memory","recency",629.437947989465,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"Memory","surprise+",723.751697933967,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"Memory","surprise+_static",2093.35191229242,21
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"NoMemory","full",666.550162121811,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"NoMemory","GP",753.008542737989,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"NoMemory","recency",649.724498518271,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"NoMemory","surprise+",717.043243937977,7
+103,47,"38-47","Undergraduate degree (BA/BSc/other)","Male",103,"NoMemory","surprise+_static",2068.50009467042,21
+106,20,"18-27","High school diploma/A-levels","Male",106,"Memory","full",534.758515092111,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"Memory","GP",632.486151907708,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"Memory","recency",538.430159247934,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"Memory","surprise+",608.542189461706,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"Memory","surprise+_static",1753.3013487097,21
+106,20,"18-27","High school diploma/A-levels","Male",106,"NoMemory","full",611.100307275797,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"NoMemory","GP",727.714835198358,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"NoMemory","recency",600.409094360239,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"NoMemory","surprise+",725.346426951177,7
+106,20,"18-27","High school diploma/A-levels","Male",106,"NoMemory","surprise+_static",2080.45612490299,21
+107,40,"38-47","Technical/community college","Male",107,"Memory","full",696.229791288644,7
+107,40,"38-47","Technical/community college","Male",107,"Memory","GP",712.889718694607,7
+107,40,"38-47","Technical/community college","Male",107,"Memory","recency",671.47616393262,7
+107,40,"38-47","Technical/community college","Male",107,"Memory","surprise+",757.239821831129,7
+107,40,"38-47","Technical/community college","Male",107,"Memory","surprise+_static",2256.42311660534,21
+107,40,"38-47","Technical/community college","Male",107,"NoMemory","full",590.626758089113,7
+107,40,"38-47","Technical/community college","Male",107,"NoMemory","GP",575.631702473071,7
+107,40,"38-47","Technical/community college","Male",107,"NoMemory","recency",611.145776882636,7
+107,40,"38-47","Technical/community college","Male",107,"NoMemory","surprise+",628.960222769754,7
+107,40,"38-47","Technical/community college","Male",107,"NoMemory","surprise+_static",1846.82532993839,21
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"Memory","full",697.656601886012,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"Memory","GP",795.344765535824,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"Memory","recency",686.976194137945,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"Memory","surprise+",789.358129969759,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"Memory","surprise+_static",2323.42930365667,21
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"NoMemory","full",577.696299897262,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"NoMemory","GP",686.939189583901,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"NoMemory","recency",580.554479429285,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"NoMemory","surprise+",664.18401154336,7
+111,34,"28-37","Undergraduate degree (BA/BSc/other)","Male",111,"NoMemory","surprise+_static",1755.06364645302,21
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"Memory","full",691.7336892244,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"Memory","GP",768.758011751549,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"Memory","recency",685.458786442516,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"Memory","surprise+",762.010841191249,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"Memory","surprise+_static",2199.64851337867,21
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"NoMemory","full",661.282375260488,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"NoMemory","GP",736.401162547905,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"NoMemory","recency",652.692290072898,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"NoMemory","surprise+",726.410486766152,7
+112,26,"18-27","Undergraduate degree (BA/BSc/other)","Female",112,"NoMemory","surprise+_static",2148.41664537306,21
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"Memory","full",625.727256790996,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"Memory","GP",745.890421097381,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"Memory","recency",622.277890328089,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"Memory","surprise+",718.969099925813,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"Memory","surprise+_static",2076.97762112696,21
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"NoMemory","full",525.194100322888,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"NoMemory","GP",623.766046630221,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"NoMemory","recency",603.303811655235,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"NoMemory","surprise+",531.887559170664,7
+116,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",116,"NoMemory","surprise+_static",1658.34670137282,21
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"Memory","full",522.416146705395,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"Memory","GP",592.369840233119,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"Memory","recency",566.711135407667,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"Memory","surprise+",615.030298416072,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"Memory","surprise+_static",1859.71696416451,21
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"NoMemory","full",545.365792084116,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"NoMemory","GP",696.045022030965,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"NoMemory","recency",563.536295026115,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"NoMemory","surprise+",644.020647534683,7
+122,24,"18-27","Undergraduate degree (BA/BSc/other)","Female",122,"NoMemory","surprise+_static",1928.64396702527,21
+123,34,"28-37","Technical/community college","Male",123,"Memory","full",466.855842684353,7
+123,34,"28-37","Technical/community college","Male",123,"Memory","GP",452.488082637004,7
+123,34,"28-37","Technical/community college","Male",123,"Memory","recency",436.099560630449,7
+123,34,"28-37","Technical/community college","Male",123,"Memory","surprise+",457.774133350158,7
+123,34,"28-37","Technical/community college","Male",123,"Memory","surprise+_static",1359.20939733642,21
+123,34,"28-37","Technical/community college","Male",123,"NoMemory","full",533.534530771986,7
+123,34,"28-37","Technical/community college","Male",123,"NoMemory","GP",551.644682347407,7
+123,34,"28-37","Technical/community college","Male",123,"NoMemory","recency",535.613306163866,7
+123,34,"28-37","Technical/community college","Male",123,"NoMemory","surprise+",516.936889442712,7
+123,34,"28-37","Technical/community college","Male",123,"NoMemory","surprise+_static",1578.51909072551,21
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"Memory","full",672.505417703016,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"Memory","GP",722.772538570383,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"Memory","recency",665.536093937349,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"Memory","surprise+",680.374018640877,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"Memory","surprise+_static",2053.72655642079,21
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"NoMemory","full",580.687032865261,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"NoMemory","GP",652.417486243203,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"NoMemory","recency",559.161521144934,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"NoMemory","surprise+",619.610340573821,7
+129,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",129,"NoMemory","surprise+_static",1767.99189540826,21
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"Memory","full",612.743952535081,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"Memory","GP",719.005615264382,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"Memory","recency",615.26952023521,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"Memory","surprise+",740.255506120729,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"Memory","surprise+_static",2171.23934890905,21
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"NoMemory","full",543.643625452726,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"NoMemory","GP",575.433268573605,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"NoMemory","recency",557.843406911115,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"NoMemory","surprise+",582.892850812415,7
+131,26,"18-27","Undergraduate degree (BA/BSc/other)","Male",131,"NoMemory","surprise+_static",1705.46630080721,21
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"Memory","full",617.907778648749,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"Memory","GP",686.75162595244,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"Memory","recency",618.350999904117,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"Memory","surprise+",689.257371475956,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"Memory","surprise+_static",2006.52575886987,21
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"NoMemory","full",612.624048270704,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"NoMemory","GP",679.698033489432,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"NoMemory","recency",603.150565047178,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"NoMemory","surprise+",701.668837120099,7
+135,40,"38-47","Secondary education (e.g. GED/GCSE)","Female",135,"NoMemory","surprise+_static",2029.03183457119,21
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"Memory","full",610.81178914851,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"Memory","GP",695.210827788709,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"Memory","recency",594.06931741527,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"Memory","surprise+",625.468661674134,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"Memory","surprise+_static",1853.6792014915,21
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"NoMemory","full",600.37228685788,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"NoMemory","GP",638.991611758462,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"NoMemory","recency",591.391180084888,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"NoMemory","surprise+",706.228077679469,7
+137,31,"28-37","Undergraduate degree (BA/BSc/other)","Female",137,"NoMemory","surprise+_static",2026.89186382097,21
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"Memory","full",663.49934579388,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"Memory","GP",701.160304252395,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"Memory","recency",653.573332575434,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"Memory","surprise+",702.933032506632,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"Memory","surprise+_static",2073.56517578607,21
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"NoMemory","full",606.644768556583,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"NoMemory","GP",593.066674636179,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"NoMemory","recency",609.148236809817,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"NoMemory","surprise+",596.964615924344,7
+139,46,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",139,"NoMemory","surprise+_static",1803.89202400141,21
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"Memory","full",448.525629731798,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"Memory","GP",457.641956336639,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"Memory","recency",426.690050696373,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"Memory","surprise+",529.147493725331,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"Memory","surprise+_static",1462.50424867309,21
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"NoMemory","full",488.088316634051,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"NoMemory","GP",503.084045855149,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"NoMemory","recency",480.182932969415,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"NoMemory","surprise+",515.361798394177,7
+142,28,"28-37","Undergraduate degree (BA/BSc/other)","Female",142,"NoMemory","surprise+_static",1538.58360065935,21
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"Memory","full",578.927167923327,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"Memory","GP",621.760919448524,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"Memory","recency",574.203188790729,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"Memory","surprise+",627.299793698773,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"Memory","surprise+_static",1814.03711243429,21
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"NoMemory","full",634.753376369897,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"NoMemory","GP",647.481190408024,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"NoMemory","recency",630.643538717119,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"NoMemory","surprise+",687.467353010722,7
+144,32,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",144,"NoMemory","surprise+_static",1973.2027935187,21
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"Memory","full",318.052776255511,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"Memory","GP",342.328273912844,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"Memory","recency",311.773733468341,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"Memory","surprise+",355.698710495968,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"Memory","surprise+_static",1035.60752637326,21
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"NoMemory","full",305.414289176079,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"NoMemory","GP",319.468758075021,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"NoMemory","recency",306.184182892753,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"NoMemory","surprise+",337.81386965717,7
+154,53,"48-57","Graduate degree (MA/MSc/MPhil/other)","Female",154,"NoMemory","surprise+_static",1023.65044292006,21
+157,29,"28-37","High school diploma/A-levels","Male",157,"Memory","full",644.625232984197,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"Memory","GP",725.543591333443,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"Memory","recency",639.27819819805,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"Memory","surprise+",754.083251953133,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"Memory","surprise+_static",2156.56127436838,21
+157,29,"28-37","High school diploma/A-levels","Male",157,"NoMemory","full",566.848850532503,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"NoMemory","GP",653.448868648869,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"NoMemory","recency",601.409861743081,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"NoMemory","surprise+",618.089620290016,7
+157,29,"28-37","High school diploma/A-levels","Male",157,"NoMemory","surprise+_static",1870.78081386223,21
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"Memory","full",665.312963028506,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"Memory","GP",749.631444313048,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"Memory","recency",665.495009578148,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"Memory","surprise+",729.515358965794,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"Memory","surprise+_static",2200.71213746618,21
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"NoMemory","full",697.392304093807,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"NoMemory","GP",659.059980547914,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"NoMemory","recency",682.259200360285,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"NoMemory","surprise+",752.086243656825,7
+161,48,"48-57","Undergraduate degree (BA/BSc/other)","Female",161,"NoMemory","surprise+_static",2186.98940349731,21
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"Memory","full",449.566538501264,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"Memory","GP",485.125369480108,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"Memory","recency",459.210785838643,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"Memory","surprise+",485.888998145962,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"Memory","surprise+_static",1427.00466151981,21
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"NoMemory","full",455.874917219666,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"NoMemory","GP",480.606961907493,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"NoMemory","recency",446.41769607728,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"NoMemory","surprise+",495.447044571084,7
+162,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",162,"NoMemory","surprise+_static",1471.74237784125,21
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"Memory","full",607.448401287254,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"Memory","GP",770.246691370187,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"Memory","recency",606.896091255124,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"Memory","surprise+",754.831142987304,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"Memory","surprise+_static",2111.96272124549,21
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"NoMemory","full",631.947600437825,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"NoMemory","GP",725.061419463767,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"NoMemory","recency",638.067908404425,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"NoMemory","surprise+",702.374105027846,7
+164,38,"38-47","Graduate degree (MA/MSc/MPhil/other)","Female",164,"NoMemory","surprise+_static",2042.75761724346,21
+171,19,"18-27","High school diploma/A-levels","Female",171,"Memory","full",738.354594957812,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"Memory","GP",780.278146170415,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"Memory","recency",737.727592731043,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"Memory","surprise+",793.649698690276,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"Memory","surprise+_static",2325.41264206348,21
+171,19,"18-27","High school diploma/A-levels","Female",171,"NoMemory","full",603.966459471129,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"NoMemory","GP",721.549758112686,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"NoMemory","recency",576.941056399993,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"NoMemory","surprise+",622.137377619845,7
+171,19,"18-27","High school diploma/A-levels","Female",171,"NoMemory","surprise+_static",1878.89918468724,21
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"Memory","full",657.771436482799,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"Memory","GP",702.53450403277,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"Memory","recency",626.99631965535,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"Memory","surprise+",740.938503154049,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"Memory","surprise+_static",2108.56918920327,21
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"NoMemory","full",609.901901795855,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"NoMemory","GP",554.307638110321,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"NoMemory","recency",600.964066233926,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"NoMemory","surprise+",641.757226389706,7
+174,55,"48-57","Undergraduate degree (BA/BSc/other)","Male",174,"NoMemory","surprise+_static",1896.73580189906,21
+175,20,"18-27","High school diploma/A-levels","Female",175,"Memory","full",778.626205914921,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"Memory","GP",650.994015807009,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"Memory","recency",605.982607928291,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"Memory","surprise+",689.902829792881,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"Memory","surprise+_static",1904.51336374594,21
+175,20,"18-27","High school diploma/A-levels","Female",175,"NoMemory","full",548.134319395849,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"NoMemory","GP",644.823827731706,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"NoMemory","recency",553.091179993145,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"NoMemory","surprise+",719.014033733962,7
+175,20,"18-27","High school diploma/A-levels","Female",175,"NoMemory","surprise+_static",1827.54360493214,21
+186,25,"18-27","Technical/community college","Female",186,"Memory","full",570.069280628223,7
+186,25,"18-27","Technical/community college","Female",186,"Memory","GP",580.452521399084,7
+186,25,"18-27","Technical/community college","Female",186,"Memory","recency",597.408904763234,7
+186,25,"18-27","Technical/community college","Female",186,"Memory","surprise+",606.043447190551,7
+186,25,"18-27","Technical/community college","Female",186,"Memory","surprise+_static",1756.28163503096,21
+186,25,"18-27","Technical/community college","Female",186,"NoMemory","full",730.808127808339,7
+186,25,"18-27","Technical/community college","Female",186,"NoMemory","GP",609.919580608094,7
+186,25,"18-27","Technical/community college","Female",186,"NoMemory","recency",619.712414251376,7
+186,25,"18-27","Technical/community college","Female",186,"NoMemory","surprise+",586.173546001858,7
+186,25,"18-27","Technical/community college","Female",186,"NoMemory","surprise+_static",1893.24147562146,21
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"Memory","full",593.534434190588,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"Memory","GP",673.481731165216,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"Memory","recency",585.861554809994,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"Memory","surprise+",690.744054422246,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"Memory","surprise+_static",1960.13424988131,21
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"NoMemory","full",660.177104842063,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"NoMemory","GP",771.904114368981,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"NoMemory","recency",648.646380572099,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"NoMemory","surprise+",729.985551155821,7
+189,32,"28-37","Undergraduate degree (BA/BSc/other)","Female",189,"NoMemory","surprise+_static",2241.00426027901,21
+202,24,"18-27","Technical/community college","Male",202,"Memory","full",497.592961319268,7
+202,24,"18-27","Technical/community college","Male",202,"Memory","GP",554.808543150054,7
+202,24,"18-27","Technical/community college","Male",202,"Memory","recency",479.704946600787,7
+202,24,"18-27","Technical/community college","Male",202,"Memory","surprise+",546.738913545168,7
+202,24,"18-27","Technical/community college","Male",202,"Memory","surprise+_static",1571.88383290304,21
+202,24,"18-27","Technical/community college","Male",202,"NoMemory","full",486.034367730624,7
+202,24,"18-27","Technical/community college","Male",202,"NoMemory","GP",539.676596937263,7
+202,24,"18-27","Technical/community college","Male",202,"NoMemory","recency",480.175487384316,7
+202,24,"18-27","Technical/community college","Male",202,"NoMemory","surprise+",561.991853990504,7
+202,24,"18-27","Technical/community college","Male",202,"NoMemory","surprise+_static",1595.59296137725,21
+205,29,"28-37","High school diploma/A-levels","Male",205,"Memory","full",720.349888440111,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"Memory","GP",817.64779796185,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"Memory","recency",722.899911187653,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"Memory","surprise+",782.772129953897,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"Memory","surprise+_static",2303.36989701891,21
+205,29,"28-37","High school diploma/A-levels","Male",205,"NoMemory","full",771.095735094776,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"NoMemory","GP",778.500737175148,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"NoMemory","recency",731.572361719562,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"NoMemory","surprise+",784.249643611373,7
+205,29,"28-37","High school diploma/A-levels","Male",205,"NoMemory","surprise+_static",2229.69267336039,21
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"Memory","full",629.809494572922,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"Memory","GP",711.210797879626,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"Memory","recency",621.123791857473,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"Memory","surprise+",697.712420071351,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"Memory","surprise+_static",2022.49426102605,21
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"NoMemory","full",655.970264639817,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"NoMemory","GP",726.77280668933,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"NoMemory","recency",638.957900039327,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"NoMemory","surprise+",703.860243464656,7
+211,30,"28-37","Undergraduate degree (BA/BSc/other)","Female",211,"NoMemory","surprise+_static",2052.22514267855,21
+212,42,"38-47","Technical/community college","Female",212,"Memory","full",568.851597996771,7
+212,42,"38-47","Technical/community college","Female",212,"Memory","GP",718.988576789055,7
+212,42,"38-47","Technical/community college","Female",212,"Memory","recency",564.282011594733,7
+212,42,"38-47","Technical/community college","Female",212,"Memory","surprise+",681.834070427566,7
+212,42,"38-47","Technical/community college","Female",212,"Memory","surprise+_static",1845.23088214778,21
+212,42,"38-47","Technical/community college","Female",212,"NoMemory","full",651.207725779564,7
+212,42,"38-47","Technical/community college","Female",212,"NoMemory","GP",721.201418852436,7
+212,42,"38-47","Technical/community college","Female",212,"NoMemory","recency",639.749067961999,7
+212,42,"38-47","Technical/community college","Female",212,"NoMemory","surprise+",689.208476152956,7
+212,42,"38-47","Technical/community college","Female",212,"NoMemory","surprise+_static",2120.62322200676,21
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"Memory","full",664.191937355766,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"Memory","GP",706.900612050651,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"Memory","recency",645.188484478487,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"Memory","surprise+",743.048605087863,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"Memory","surprise+_static",2097.01373378513,21
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"NoMemory","full",636.858837682883,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"NoMemory","GP",595.128795016116,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"NoMemory","recency",573.053738871923,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"NoMemory","surprise+",603.124984239285,7
+215,43,"38-47","Undergraduate degree (BA/BSc/other)","Female",215,"NoMemory","surprise+_static",1939.84909806172,21
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"Memory","full",562.68060376082,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"Memory","GP",595.837144131043,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"Memory","recency",516.598610930003,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"Memory","surprise+",598.918776918304,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"Memory","surprise+_static",1741.32241288267,21
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"NoMemory","full",545.839489176435,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"NoMemory","GP",583.461016202703,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"NoMemory","recency",553.888023939963,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"NoMemory","surprise+",614.838182200759,7
+221,53,"48-57","Undergraduate degree (BA/BSc/other)","Male",221,"NoMemory","surprise+_static",1785.06947020104,21
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"Memory","full",627.026649525002,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"Memory","GP",689.691290446777,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"Memory","recency",616.422117633821,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"Memory","surprise+",698.027824575886,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"Memory","surprise+_static",1959.13061255481,21
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"NoMemory","full",546.483826222828,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"NoMemory","GP",500.890263033411,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"NoMemory","recency",578.925470118728,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"NoMemory","surprise+",495.763214694482,7
+228,22,"18-27","Undergraduate degree (BA/BSc/other)","Female",228,"NoMemory","surprise+_static",1666.48173136484,21
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"Memory","full",556.054196542538,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"Memory","GP",756.936158014797,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"Memory","recency",548.086062679752,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"Memory","surprise+",665.812724597747,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"Memory","surprise+_static",2016.09795484979,21
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"NoMemory","full",545.931834553313,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"NoMemory","GP",759.106579196011,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"NoMemory","recency",543.881891494395,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"NoMemory","surprise+",808.810021253208,7
+233,30,"28-37","Undergraduate degree (BA/BSc/other)","Male",233,"NoMemory","surprise+_static",2127.31233818583,21
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"Memory","full",630.978923521791,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"Memory","GP",695.266806541355,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"Memory","recency",625.831643632657,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"Memory","surprise+",688.409749920183,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"Memory","surprise+_static",2032.05539219845,21
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"NoMemory","full",553.026195511302,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"NoMemory","GP",641.900829710951,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"NoMemory","recency",576.467820725334,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"NoMemory","surprise+",651.617820202533,7
+242,41,"38-47","Undergraduate degree (BA/BSc/other)","Female",242,"NoMemory","surprise+_static",1850.6446594343,21
+243,34,"28-37","Technical/community college","Female",243,"Memory","full",643.918364696077,7
+243,34,"28-37","Technical/community college","Female",243,"Memory","GP",715.822690960544,7
+243,34,"28-37","Technical/community college","Female",243,"Memory","recency",646.981318446466,7
+243,34,"28-37","Technical/community college","Female",243,"Memory","surprise+",763.983873124349,7
+243,34,"28-37","Technical/community college","Female",243,"Memory","surprise+_static",2084.40278328215,21
+243,34,"28-37","Technical/community college","Female",243,"NoMemory","full",591.057880229417,7
+243,34,"28-37","Technical/community college","Female",243,"NoMemory","GP",658.745707892308,7
+243,34,"28-37","Technical/community college","Female",243,"NoMemory","recency",622.731390337095,7
+243,34,"28-37","Technical/community college","Female",243,"NoMemory","surprise+",618.362710660205,7
+243,34,"28-37","Technical/community college","Female",243,"NoMemory","surprise+_static",1764.19761872568,21
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"Memory","full",581.236042763509,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"Memory","GP",662.864316336504,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"Memory","recency",577.840244976633,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"Memory","surprise+",637.197511216436,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"Memory","surprise+_static",1895.51003614003,21
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"NoMemory","full",665.572035700837,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"NoMemory","GP",714.040408807013,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"NoMemory","recency",659.959671243774,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"NoMemory","surprise+",716.389232520417,7
+248,35,"28-37","Graduate degree (MA/MSc/MPhil/other)","Male",248,"NoMemory","surprise+_static",2093.75098199813,21
+258,19,"18-27","High school diploma/A-levels","Male",258,"Memory","full",605.042072822927,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"Memory","GP",710.582764539186,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"Memory","recency",602.668563721401,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"Memory","surprise+",730.390534605197,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"Memory","surprise+_static",2062.73072165637,21
+258,19,"18-27","High school diploma/A-levels","Male",258,"NoMemory","full",503.650288233452,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"NoMemory","GP",543.26141346425,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"NoMemory","recency",499.021000398225,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"NoMemory","surprise+",549.679722350471,7
+258,19,"18-27","High school diploma/A-levels","Male",258,"NoMemory","surprise+_static",1581.62739783225,21
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"Memory","full",638.70489699973,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"Memory","GP",670.302128300323,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"Memory","recency",629.502139223342,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"Memory","surprise+",667.066941485369,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"Memory","surprise+_static",1962.94828897611,21
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"NoMemory","full",588.476589567481,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"NoMemory","GP",617.521573302582,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"NoMemory","recency",571.333771577331,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"NoMemory","surprise+",639.953440712252,7
+261,47,"38-47","Undergraduate degree (BA/BSc/other)","Female",261,"NoMemory","surprise+_static",1827.52260068052,21
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"Memory","full",658.702082495998,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"Memory","GP",609.925159296768,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"Memory","recency",637.039676324256,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"Memory","surprise+",714.567456424294,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"Memory","surprise+_static",2051.48457110857,21
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"NoMemory","full",563.210592055579,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"NoMemory","GP",607.034912227058,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"NoMemory","recency",593.220206395197,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"NoMemory","surprise+",562.004802368205,7
+263,28,"28-37","Undergraduate degree (BA/BSc/other)","Male",263,"NoMemory","surprise+_static",1712.51415518286,21
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"Memory","full",515.878669024445,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"Memory","GP",543.659929937362,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"Memory","recency",522.344346280982,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"Memory","surprise+",505.394982807957,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"Memory","surprise+_static",1531.19595620913,21
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"NoMemory","full",521.479256920052,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"NoMemory","GP",511.319036513145,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"NoMemory","recency",493.634904317192,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"NoMemory","surprise+",508.027391461795,7
+266,27,"18-27","Graduate degree (MA/MSc/MPhil/other)","Female",266,"NoMemory","surprise+_static",1533.58681270768,21
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"Memory","full",531.082704919891,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"Memory","GP",524.107342883087,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"Memory","recency",539.162207399877,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"Memory","surprise+",526.768887164007,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"Memory","surprise+_static",1578.00015823838,21
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"NoMemory","full",609.895644916948,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"NoMemory","GP",583.85982840009,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"NoMemory","recency",600.835746947546,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"NoMemory","surprise+",581.82895204561,7
+289,29,"28-37","Undergraduate degree (BA/BSc/other)","Female",289,"NoMemory","surprise+_static",1768.47104255585,21
+310,76,"68-77","High school diploma/A-levels","Female",310,"Memory","full",290.035177455197,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"Memory","GP",399.289888501771,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"Memory","recency",278.472677599456,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"Memory","surprise+",351.077048717434,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"Memory","surprise+_static",1014.80609550318,21
+310,76,"68-77","High school diploma/A-levels","Female",310,"NoMemory","full",338.278342178893,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"NoMemory","GP",447.229524824707,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"NoMemory","recency",339.815641784344,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"NoMemory","surprise+",410.381522709695,7
+310,76,"68-77","High school diploma/A-levels","Female",310,"NoMemory","surprise+_static",1170.80179900743,21
+341,33,"28-37","High school diploma/A-levels","Female",341,"Memory","full",434.849322307522,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"Memory","GP",549.976862886572,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"Memory","recency",431.804505072618,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"Memory","surprise+",564.475313090855,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"Memory","surprise+_static",1600.20986757275,21
+341,33,"28-37","High school diploma/A-levels","Female",341,"NoMemory","full",569.042622664105,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"NoMemory","GP",566.916706088533,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"NoMemory","recency",544.23926765885,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"NoMemory","surprise+",552.149947891853,7
+341,33,"28-37","High school diploma/A-levels","Female",341,"NoMemory","surprise+_static",1661.43222592528,21

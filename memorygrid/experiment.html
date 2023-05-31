@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Sebastian Breit (based on work by Charley Wu)">
+    <meta charset="utf-8">
+    <title>Exploring the unknown</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js"></script>
+    <!--script src="https://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script-->
+     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="grid2D.css">
+    <link href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet" type="text/css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+ </head>
+    <body>
+
+        <div class="container" id="main_body">
+            <div class="row">
+
+
+                <!--First page contains Ethics statement-->
+                <div id="page1" style="display:block">
+
+                  <img src="InfoSheet_header.png"/>
+
+                  <div class="container">
+                                  
+                    <!-- <p>Appendix: Information Sheet for the Study</p>
+                    <p>Note: Texts/Numbers inside [] change depending on the platform/task used.</p> -->
+
+                    <div class="row mt-3">
+                      <div class="col">
+                          <b>Investigators:</b>
+                        </div>
+                        <div class="col">
+                          <b>Email:</b>
+                        </div>
+                        <div class="col">
+                          <b>Phone:</b>
+                        </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                          Kou Murayama
+                        </div>
+                        <div class="col">
+                          k.murayama@reading.ac.uk
+                        </div>
+                        <div class="col">
+                          +44-118-378-5558
+                        </div>
+                    </div>
+                    
+
+                    <div class="row mt-3">
+                      <div class="col">
+                          <b>Researcher(s):</b>
+                        </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                          Sebastian Breit
+                        </div>
+                        <div class="col">
+                          sebastian.breit@student.uni-tuebingen.de
+                        </div>
+                        <div class="col">
+                        </div>
+                    </div>
+                    
+
+                    <p class="mt-3">Title of the Study: Motivation and Cognitive Process</p>
+
+                    <p>We would be grateful to you if you could assist us by participating in our online study exploring how motivation can influence cognition and vice versa.</p>
+
+                    <p>In this experiments, we would ask you work on various types of cognitive tasks. For example, you might be asked to respond to presented stimuli (objects, letters, pictures, etc.) as quickly as possible. You might also be asked to answer some questions or rate some pictures or sentences. You might be asked to remember the presented stimuli and recall them later. You might be asked to make a simple decision or prediction on each trial in response to the stimuli presented. We are interested in how you respond to such information, as well as how well you will learn this information. The experiment will take 20 minutes.</p>
+
+                    <p>This research will be conducted online or in a secure private space (e.g., office). You will receive £3.00 for your 15 minutes participation through Prolific Academic. You can also receive additional payment depending on your performance of up to an additional £3.00.</p>
+
+                    <p>Your data will be kept confidential and securely stored, with only an anonymous number identifying it. All information collected for the project will be destroyed after a period of 60 months from the completion of the project has elapsed.</p>
+
+                    <p>We foresee few risks for the tasks you will work on. You might be presented with some negative words or pictures during the experiment, and they may evoke an emotional response. Thus, the study may include a mild risk of anxiety, sadness or other emotional reactions. However, those stimuli are widely used in the literature and no more negative than those observed in our daily life. If you feel too uncomfortable, you may discontinue your participation at any time.</p>
+
+                    <p>Taking part in this study is completely voluntary; you may withdraw at any time without having to give any reason. Please feel free to ask any questions that you may have about this study at any point.</p>
+
+                    <p>
+                      <i>
+                        This application has been reviewed by the University Research Ethics Committee and has been given a favourable ehtical opinion for conduct.
+                      </i>
+                    </p>
+
+                    <p>If you have any questions or concerns about the research, please feel free to contact Dr. Kou Murayama</p>
+
+                    <p>Email: k.murayama@reading.ac.uk, Tel: +44-(0)118-378-5558</p>
+
+                    <p>Thank you for your help.</p>
+
+                    <p>If you agree to participate, please tick the box to consent and submit.</p>                    
+                  </div>
+                  <div class="container">
+
+                    <div class="row mt-20">
+                      <div class="row mt-2">
+                        <div class="form-check">
+                          <input class="form-check-input big-checkbox" type="checkbox" value="" id="consentCheckbox">
+                          <label id="consentCheckboxText" class="form-check-label" for="consentCheckbox">
+                            I agree to take part in the study.
+                          </label>
+                        </div>
+                        <div class="col-lg-2">
+                          <button class='btn btn-primary btn-lg' type="button" name="button";  id="agreeToConsent" >Begin</button>
+                        </div>  
+                      </div>   
+                    </div>
+                  </div>
+                  
+                </div>
+
+                <!--Second page with instructions and examples-->
+                <div id="page2" style="display:none">
+                  <div class="row mb-3">
+                    <div class="col-lg-4 col-12">
+                      <div id="instructions_memory" style = "display:none;text-align:center">
+                        <h3>Instructions:</h3>
+                        <p><b>Please read the following instructions very carefully: </b></p>
+                        <br>
+                        <p id='instructions_1' style = "display:block"> PLACEHOLDER </p> 
+                        <p id='instructions_2' style = "display:none"> PLACEHOLDER </p>
+                        <p id='instructions_3' style = "display:none"> PLACEHOLDER </p>
+                        <p id="instructions_4" style = "display:none">PLACEHOLDER</p>
+                        <p id="instructions_5" style = "display:none"> PLACEHOLDER</p>
+                        <p id="instructions_6" style = "display:none"> PLACEHOLDER</p>
+                        <br><br>
+                      </div>
+                    </div>
+                    
+
+                    <div class="col-lg-8 col-12" id='examples'>
+                      <center>
+                          <div id='example1' style='display:block'> <!--Overview of task-->
+                            <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/overview/overview_1.png" class="img-fluid" alt="Overview 1">
+                                </div>
+                                <!-- <div class="col-6">
+                                  <img src="images/intro_examples/overview/overview_2.png" class="img-fluid" alt="Overview 2">
+                                </div> -->
+                                <div class="col-4">
+                                  <img src="images/intro_examples/overview/overview_3.png" class="img-fluid" alt="Overview 2">
+                                </div>
+                                <div class="col-2"></div>
+                            </div>
+                          </div>
+                            
+
+                            <div id='example2' style='display:none'> <!--Multiple reward distributions-->
+                              <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/distribution/distribution_1.png" class="img-fluid" alt="Distribution 1">
+                                </div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/distribution/distribution_2.png" class="img-fluid" alt="Distribution 2">
+                                </div>
+                                <div class="col-2"></div>
+
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/distribution/distribution_3.png" class="img-fluid" alt="Distribution 3">
+                                </div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/distribution/distribution_4.png" class="img-fluid" alt="Distribution 4">
+                                </div>                                
+                                <div class="col-2"></div>
+                              </div>
+                            </div> 
+                            
+                            <div id='example3' style='display:none'> <!--Rewards translate into payoffs-->
+
+                              <div class="row"><h6>Random choices: No Performance bonus</h6></div>
+                              <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/reward/random_1.png" class="img-fluid" alt="Random 1">
+                                </div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/reward/random_2.png" class="img-fluid" alt="Random 2">
+                                </div>
+                                <div class="col-2"></div>
+                              </div>
+
+                              <div class="row"><h6>Better than random: More Performance bonus</h6></div>
+                              <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/reward/search_1.png" class="img-fluid" alt="Search 1">
+                                </div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/reward/search_2.png" class="img-fluid" alt="Search 2">
+                                </div>            
+                                <div class="col-2"></div>                                       
+                              </div> 
+                            </div>
+                            <div id='example4' style='display:none'> <!--Single revealed reward-->
+                              <div class="row"><h6>New round: Single reward revealed</h6></div>
+                              <div class="row">
+                                <div class="col-4"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/single_reward/single_1.png" class="img-fluid" alt="Single reward 1">
+                                </div>
+                                <!-- <div class="col-4">
+                                  <img src="images/intro_examples/single_reward/single_2.png" class="img-fluid" alt="Single reward 2">
+                                </div> -->
+                                <div class="col-4"></div>
+                              </div>                              
+                            </div> 
+
+                            <div id='example5' style='display:none'> <!--Re-clicking is possible and small fluctuations in reward-->
+                              <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <div class="row"><h6>Step 1</h6></div>
+                                  <img src="images/intro_examples/reclicking/click_1.png" class="img-fluid" alt="Reclicking 1">
+                                </div>
+                                <div class="col-4">
+                                  <div class="row"><h6>Step 2</h6></div>
+                                  <img src="images/intro_examples/reclicking/click_2.png" class="img-fluid" alt="Reclicking 2">
+                                </div>
+                                <div class="col-2"></div>
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <div class="row"><h6>Step 3</h6></div>
+                                  <img src="images/intro_examples/reclicking/click_3.png" class="img-fluid" alt="Reclicking 3">
+                                </div>
+                                <div class="col-4">
+                                  <div class="row"><h6>Step 4</h6></div>
+                                  <img src="images/intro_examples/reclicking/click_4.png" class="img-fluid" alt="Reclicking 4">
+                                </div>                
+                                <div class="col-2"></div>   
+                              </div>            
+                            </div>
+
+                            <div id='example6' style='display:none'> <!--Examples of the two round types-->
+                              <div class="row">
+                                <center>
+                                  <h6>Permanent Round</h6>
+                                </center>
+                              </div>
+                              <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/different_rounds/baseline/baseline_3.png" class="img-fluid" alt="Baseline 1">
+                                </div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/different_rounds/baseline/baseline_4.png" class="img-fluid" alt="Baseline 2">
+                                </div>
+                                <div class="col-2"></div>
+                              </div>
+
+                              <div class="row">
+                                <center>
+                                  <h6>Temporary Round</h6>
+                                </center>
+                              </div>
+                              <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/different_rounds/forgetful/forgetful_4_1.png" class="img-fluid" alt="Forgetful 1">
+                                </div>
+                                <div class="col-4">
+                                  <img src="images/intro_examples/different_rounds/forgetful/forgetful_4_2.png" class="img-fluid" alt="Forgetful 2">
+                                </div>                                
+                                <div class="col-2"></div>
+                              </div>    
+                            </div>
+
+                      </center>
+                    </div> 
+                  </div>
+                  <div class="row mb-3">
+                    <center>
+                      <div class="col-12">
+                        <button class='btn btn-primary btn-lg' type="button" name="button" id='exampleButton';  >Next Page</button>
+                      </div>
+                    </center>                        
+                  </div> 
+                 </div>
+
+                <!--Third page with attention check-->
+                <div id="page3" style="display:none">
+                  <div class="container">
+
+                    <div class="row mb-2">
+                      <h2>Comprehension Questions</h2>
+                    </div>
+                    <div class="row mb-2">
+                      <div class="col-lg-6 col-12">
+                        <fieldset class="form-group">
+                            <legend class="text-l"><b>What is your goal in this task?</b></legend>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq2" id="radioq2a">
+                              <label class="form-check-label" for="radioq2a">
+                                Learn the location of the largest reward for each grid
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq2" id="radioq2b">
+                              <label class="form-check-label" for="radioq2b">
+                                Try to find the largest reward
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq2" id="radioq2c">
+                              <label class="form-check-label" for="radioq2c">
+                                Collect as many points in total
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq2" id="radioq2d">
+                              <label class="form-check-label" for="radioq2d">
+                                Try to find the largest difference between two tiles
+                              </label>
+                            </div>
+                        </fieldset>
+                      </div>
+
+
+                      <div class="col-lg-6 col-12">
+                        <fieldset class="form-group">
+                            <legend class="text-l"><b>What happens when you select a tile?</b></legend>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq1" id="radioq1a">
+                              <label class="form-check-label" for="radioq1a">
+                                 It will reveal the reward you gained permanently
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq1" id="radioq1c">
+                              <label class="form-check-label" for="radioq1c">
+                                It will reveal the reward you gained for only a brief period of time
+                              </label>
+                            </div>
+                            
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq1" id="radioq1d">
+                              <label class="form-check-label" for="radioq1d" >
+                                It will reveal the reward you gained, either permanently or temporarily - randomly for each choice
+                              </label>
+                            </div>
+
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq1" id="radioq1b">
+                              <label class="form-check-label" for="radioq1b" >
+                                It will reveal the reward you gained, either permanently or temporarily - depending on the round type
+                              </label>
+                            </div>
+
+                        </fieldset>
+                      </div>
+                      
+                    </div>
+                    <div class="row mb-2">
+                      
+                      <div class="col-lg-6 col-12">
+                        <fieldset class="form-group">
+                            <legend class="text-l"><b>What happens when you click already revealed tiles?</b></legend>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq5" id="radioq5a">
+                              <label class="form-check-label" for="radioq5a">
+                                You gain the exact amount of points that you gained before
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq5" id="radioq5d">
+                              <label class="form-check-label" for="radioq5d">
+                                You gain about the same amount of points as before, but the points can be slightly higher or lower
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq5" id="radioq5b">
+                              <label class="form-check-label" for="radioq5b">
+                                You gain about the same amount of points as before, but the amount decreases with each repetition
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq5" id="radioq5c">
+                              <label class="form-check-label" for="radioq5c">
+                                You cannot click on previously revealed tiles
+                              </label>
+                            </div>                            
+                        </fieldset>
+                      </div>       
+                      <div class="col-lg-6 col-12">
+                        <fieldset class="form-group">
+                            <legend class="text-l"><b>How are the points distributed?</b></legend>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq3" id="radioq3a">
+                              <label class="form-check-label" for="radioq3a">
+                                Tiles that are close to each other tend to yield similar points
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq3" id="radioq3b">
+                              <label class="form-check-label" for="radioq3b">
+                                Tiles that are very far apart always yield very different points
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq3" id="radioq3c">
+                              <label class="form-check-label" for="radioq3c">
+                                There is only one tile with the most points and high points can only be found close to it
+                              </label>
+                            </div>
+                            <div class="form-check">
+                              <input class="form-check-input" type="radio" name="radioq3" id="radioq3d">
+                              <label class="form-check-label" for="radioq3d">
+                                Points are distributed randomly across the grid
+                              </label>
+                            </div>
+                        </fieldset>
+                      </div>
+                    </div>
+
+                    <div class="row mt-md-5">
+                      <div class="col-lg-4"></div>
+                      <div class="col-lg-4 col-12">
+                        <div class="d-flex justify-content-center">
+                          <p class="text-center"><b> Only when you have answered all the questions correctly will you be able to start the study.</b></p>
+                        </div>
+                        </div>
+                      <div class="col-lg-4"></div>
+                    </div>
+                    <div class="row mt-md-2">
+                      <div class="col-lg-4"></div>
+                      <div class="col-lg-4 col-12">
+                        <div class="d-flex justify-content-center">
+                          <button class='btn btn-primary btn-lg' type="button" name="button"; id='instructionsButton'>Check answers</button>
+                        </div>
+                        </div>
+                      <div class="col-lg-4"></div>
+                    </div>
+                    
+                      
+                  </div>
+                </div>
+
+                <!--Fourth (intermediat) page confirming correct attention check-->
+                <div id="page4" style="display:none">
+                  <div class="container">
+                    <div class="row mt-md-5">
+                      <div class="col-lg-4"></div>
+                      <div class="col-lg-4 col-12">
+                        <div class="d-flex justify-content-center">
+                          <p class="text-center"> Very good. You have answered all questions correctly and can now start the study.</p>
+                        </div>
+                        </div>
+                      <div class="col-lg-4"></div>
+                    </div>
+                    <div class="row mt-md-2">
+                      <div class="col-lg-4"></div>
+                      <div class="col-lg-4 col-12">
+                        <div class="d-flex justify-content-center">
+                          <button class='btn btn-primary btn-lg' type="button" name="button"; id='beginExpButton'>Start</button>
+                        </div>
+                        </div>
+                      <div class="col-lg-4"></div>
+                    </div>
+                  </div>
+                </div>
+
+                <!--Fifth page: The Main Experiment page-->
+                <div id="page5" style="display:none">
+                  <div class="row">
+                    <div class="page-header" id="expHeader" style = 'display:none'>
+                        <center>
+                          <h5 id='scenario_header'> Current Condition </h5>
+                        </center>
+                    </div>
+                    <div id="instruction_summary_memory" style="display:none">
+                        <p> <b>Summarized Instructions:</b></p>
+                        <p id="summarized_instructions_I_memory">PLACEHOLDER</p>
+                        <p><b>II.</b> Tiles can be repeatedly clicked, although there may be small variations in the points earned. Only the most recently uncovered point value is displayed.</p>
+                        <p><b>III.</b> The points of a tile depend upon where it is located, with neighbouring tiles tending to have similar point values. </p>
+                        <p><b>IV.</b> On top of the grid, you can see how many clicks you have left, the number of grids left to explore, and the total score you have earned in the current round.</p>
+                        <p id= "summarized_instructions_V_memory">PLACEHOLDER</p>
+                        <p><b>VI.</b> Your reward will be based on the total points you earn, by revealing new tiles and also by reclicking previously revealed tiles.</p>
+                        <p id= "summarized_instructions_VII_memory">PLACEHOLDER</p>
+                    </div>
+                    <div id="instruction_summary_nomemory" style="display:none">
+                        <p> <b>Summarized Instructions:</b></p>
+                        <p id="summarized_instructions_I_nomemory">PLACEHOLDER</p>
+                        <p><b>II.</b> Tiles can be repeatedly clicked, although there may be small variations in the points earned. Only the most recently uncovered point value is displayed.</p>
+                        <p><b>III.</b> The points of a tile depend upon where it is located, with neighbouring tiles tending to have similar point values. </p>
+                        <p><b>IV.</b> On top of the grid, you can see how many clicks you have left, the number of grids left to explore, and the total score you have earned in the current round.</p>
+                        <p id= "summarized_instructions_V_nomemory">PLACEHOLDER</p>
+                        <p><b>VI.</b> Your reward will be based on the total points you earn, by revealing new tiles and also by reclicking previously revealed tiles.</p>
+                        <p><b>VII.</b> This round, revealed <b>rewards will remain visible</b> throughout the entire round.</p>
+                    </div>
+
+                  </div>
+                    
+                  <div class="row">
+                    <div  id='main_page'>
+                      <div id="bonusRoundAFC" style="display:none">
+                          <br><br>
+                          <center>
+                            <h1> <font size="6"> <div id="BonusAFC"> PLACEHOLDER. </div></font> </h1>
+                            
+                          </center>
+                          <br><br>
+
+                      </div>
+                      <div id='roundHeaderDiv'>
+                        
+                          
+                      </div>
+                      <div id='gridDiv' class="stimuliDisplay">
+                          <font color="green"><center><b><div id="scoretotal">Reward Earned in Current Round: $0.00</div></b></center> </font>
+                          <font color="black"><center><div id="remaining_grids">Number of grids left: <b>8</b></div></center></font>
+                          <font color="black"><center><div id="remaining_clicks">Number of clicks left: <b>20</b></div></center> </font>
+                          <center>
+                            <table id='grid' class='grid'> <tbody></tbody> </table>
+                          </center>
+                          <br><br>
+                      </div>
+
+                      <div id='gridFixationDiv' class="stimuliDisplay">
+                          <font color="red"><center><b><div>Please keep your attention on the grid.</div></b></center> </font>
+                          <font color="red"><center><div><b>The round starts in 2 seconds.</b></div></center></font>
+                          <font color="white"><center><div>PLACEHOLDER</div></center></font>
+                          <center>
+                            <table id='gridFixation' class='gridFixation'> <tbody></tbody> </table>
+                          </center>
+                          <br><br>
+                      </div>
+                    </div>
+                  
+
+                    <div id = 'bonusRoundDiv' style='display:none'>
+                      <center>
+                          <div id='input'>
+                              <h6> How many points do you think the <b>flashing</b> item will earn? </h6>
+                              <div class="col-2"></div>
+                              <div class="range-slider col-8" > 
+                                  <input id='estimateSlider' class="input-range" type="range" value="45" min="5" max="85" step="1" oninput="estimateSliderChange(this.value)">
+                              </div>
+                              <div class="col-2"></div>
+                              <div class="text-l" id="output">
+                              <table>
+                                    <td class="col-2"><center>Low</center></td>
+                                    <td class="col-8"><center><output>50 points</output></center></font></td>                                    
+                                    <td class="col-2"><center>High</center></td>
+                                  </table>
+                              </div>
+                              <h6> How confident are you? </h6>
+                              <div class="col-2"></div>
+                              <div class="range-slider col-8" >
+                                  <input id='confidenceSlider' class="input-range" type="range" value="5" min="0" max="10" step="1"  oninput="confidenceSliderChange(this.value)">
+                              </div>
+                              <div class="col-2"></div>
+                              <div class="text-l">
+                                  <table>
+                                    <td class="col-5"><center>Not at all confident</center></td>
+                                    <td class="col-2"><font color="white"><center>SPACE</center></font></td>                                    
+                                    <td class="col-5"><center>Extremely confident</center></td>
+                                  </table>
+                              </div> <br>
+                              <button class='btn btn-primary btn-lg' type="button" name="button" id="submitBonusJudgmentButton" >Submit</button>
+                          </div>
+                      </center>                  
+                    </div>
+                  </div>
+                  
+                  
+                  <div class="row">
+                    <div id="page5BonusReady" style="display:none">
+                      <div class="container">
+                        <div class="row mt-md-5">
+                          <div class="col-2"></div>
+                          <div class="col-8">
+                            <div class="d-flex justify-content-center">
+                              <p id="bonusReady" class="text-center"> PLACEHOLDER </p>
+                            </div>
+                            </div>
+                          <div class="col-2"></div>
+                        </div>
+                        <div class="row mt-md-2">
+                          <div class="col-4"></div>
+                          <div class="col-4">
+                            <div class="d-flex justify-content-center">
+                              <button class='btn btn-primary btn-lg' type="button" name="button"; id='bonusReadyButton'>Ready</button>
+                            </div>
+                            </div>
+                          <div class="col-4"></div>
+                        </div>
+                      </div>
+                  </div>
+
+                  <div id="page5ready" style="display:none">
+                      <div class="container">
+                        <div class="row mt-md-5">
+                          <div class="col-2"></div>
+                          <div class="col-8">
+                            <div class="d-flex justify-content-center">
+                              <p id="ready" class="text-center"> PLACEHOLDER </p>
+                            </div>
+                            </div>
+                          <div class="col-2"></div>
+                        </div>
+                        <div class="row mt-md-2">
+                          <div class="col-4"></div>
+                          <div class="col-4">
+                            <div class="d-flex justify-content-center">
+                              <button class='btn btn-primary btn-lg' type="button" name="button"; id='readyButton'>Ready</button>
+                            </div>
+                            </div>
+                          <div class="col-4"></div>
+                        </div>
+                      </div>
+                  </div>
+                    
+                  <div id="page5finished" style="display:none">
+                      <div class="container">
+                        <div class="row mt-md-5">
+                          <div class="col-2"></div>
+                          <div class="col-8">
+                            <div class="d-flex justify-content-center">
+                              <p id="trials" class="text-center"> PLACEHOLDER </p>
+                            </div>
+                            </div>
+                          <div class="col-2"></div>
+                        </div>
+                        <div class="row mt-md-2">
+                          <div class="col-4"></div>
+                          <div class="col-4">
+                            <div class="d-flex justify-content-center">
+                              <button class='btn btn-primary btn-lg' type="button" name="button"; id='nextTrialButton'>Continue</button>
+                            </div>
+                            </div>
+                          <div class="col-4"></div>
+                        </div>
+                      </div>
+                  </div>
+
+
+                  </div>
+
+                  
+                </div>
+
+                <!--Sixth page with demographics questions -->
+                <div id="page6" style="display:none">
+                    <div class="page-header" id="thanksforcompleting" >
+                        <h3>Thank you for participating in our experiment.</h3>
+                    </div>
+                    <fieldset>
+                    <div>
+                      <form>Please let us know what strategies you used when searching the grids: <br>
+                        <textarea class="form-control" cols="40" rows="5" id="processDescription" name="Comments" placeholder="How did you try to increase your performance bonus?"></textarea><br><br>
+                      </form>
+                    </div>
+                    </fieldset>
+                    <div style="width:50px;margin:0 auto">
+                        <button class='btn btn-primary btn-lg' type="button" name="button" id="submitDataButton">Done</button>
+                    </div>
+                </div>
+
+                <!--Seventh page with closing instructions -->
+                <div id="page7" style="display:none">
+                    <h3>Thank you for participating in our experiment.</h3>
+                    <div id="baseReward"> The base payment of £2.50 will be transferred to your Prolific account shortly. </div>
+                    <div id="bonus"> You have achieved a bonus of £0.00 </div>
+                    <!-- TODO Adjust the base fee / Just change the goodbye to "You may close this window now" -->
+                    <p> You are now done with the experiment.</p>  
+                    <div class=row> To complete the study, either use the following link to get directly back to Prolific, or copy the completion code manually. </div>
+                    <div class=row id="redirectProlific"><a href="https://api.prolific.co/submissions/complete?cc=454DE7DA">Direct link back to Prolific.</a></div>
+                    <div class=row>
+                      <div class="col-2">Completion code:</div>
+                      <div class="col-2" id="completionCode">454DE7DA</div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- Utility div for displaying any modal on top of the site -->
+        <div class="modal fade" id="errorModal" tabindex="-1">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">Error</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <p id=error>Modal body text goes here.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <script src="js/prolific_integration.js" charset="utf-8"></script>
+        <script src="js/utilities.js" charset="utf-8"></script>
+        <script src="js/memorygrid.js" charset="utf-8"></script>
+        <script src="js/connect_html.js" charset="utf-8"></script>
+        
+
+    </body>
+</html>

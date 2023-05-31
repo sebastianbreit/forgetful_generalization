@@ -1,0 +1,15 @@
+Bootstrap: docker
+From: r-base:3.6.3
+
+%post
+    apt-get update
+    apt-get -y install r-cran-nloptr
+    echo "Installing packages."
+    R -e "install.packages(c('plyr', 'dplyr', 'tidyr','jsonlite','stringr','matrixcalc', 'brms','lme4','lmerTest'))"
+
+%labels
+    Author sebastian.breit@student.uni-tuebingen.de
+    Version v0.0.1
+
+%help
+    This is a base container for R programs with preinstalled R packages for faster image generation later on.
